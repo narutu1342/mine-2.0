@@ -527,3 +527,5 @@
 [00:55:38] [Server thread/INFO] [bettercaves]: Using block 'minecraft:water' as water in cave generation for dimension 0 (OVERWORLD) ...
 [00:55:44] [Server thread/WARN] [FML]: Treasure2! loaded a new chunk [-23, 19] in dimension 0 (overworld) while populating chunk [-22, 19], causing cascading worldgen lag.
 [00:55:44] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:00:04] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: narutu1313 lost connection: Timed out
+[01:00:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: narutu1313 left the game
