@@ -592,3 +592,13 @@
 [23:43:45] [Server thread/INFO] [ebwizardry]: Synchronising advancements for narutu1313
 [23:43:45] [Server thread/INFO] [ebwizardry]: Synchronising advancements for narutu1313
 [23:43:45] [Server thread/INFO] [ebwizardry]: Synchronising advancements for narutu1313
+[23:49:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [narutu1313: Set own game mode to Survival Mode]
+[23:50:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: narutu1313 is bleeding...
+[23:50:12] [Server thread/INFO] [tombstone]: The death event of the player narutu1313 was cancelled by another mod
+[23:50:12] [Server thread/INFO] [tombstone]: narutu1313 has successfully been saved
+[23:50:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: narutu1313 was shot by Skeleton
+[23:50:17] [Server thread/INFO] [tombstone]: The last known grave of narutu1313 is at location [name:Last Grave, x:838, y:158, z:56] in the dimension 0
+[23:50:22] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to narutu1313
+[23:50:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [narutu1313: Changing to clear weather]
+[23:52:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [narutu1313: Set own game mode to Survival Mode]
+[23:52:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [narutu1313: Set own game mode to Creative Mode]
