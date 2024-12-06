@@ -232,3 +232,8 @@
 2024-12-06 16:55:43,199 [Server thread] INFO Treasure2 | SurfaceChestWorldGenerator.java:390 | CHEATER! COMMON chest at coords: 232 67 -56
 2024-12-06 16:55:43,200 [Server thread] INFO Treasure2 | WellGenerator.java:123 | CHEATER! Wishing Well at coords: 230 75 -56
 2024-12-06 16:57:29,569 [Server thread] INFO Treasure2 | SurfaceChestWorldGenerator.java:390 | CHEATER! UNCOMMON chest at coords: 248 82 184
+2024-12-06 17:08:48,739 [Server thread] INFO Treasure2 | SurfaceChestWorldGenerator.java:390 | CHEATER! SCARCE chest at coords: 296 74 72
+2024-12-06 17:09:32,062 [Server thread] INFO Treasure2 | SurfaceChestWorldGenerator.java:390 | CHEATER! UNCOMMON chest at coords: 264 68 296
+2024-12-06 17:11:10,459 [Server thread] INFO Treasure2 | SurfaceChestWorldGenerator.java:390 | CHEATER! COMMON chest at coords: 344 65 -56
+2024-12-06 17:11:13,064 [Server thread] INFO Treasure2 | SurfaceChestWorldGenerator.java:390 | CHEATER! SCARCE chest at coords: 376 69 24
+2024-12-06 17:11:17,472 [Server thread] INFO Treasure2 | SurfaceChestWorldGenerator.java:390 | CHEATER! COMMON chest at coords: 392 63 168
