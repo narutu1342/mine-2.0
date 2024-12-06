@@ -5,21 +5,21 @@
     },
     "done": true
   },
+  "tombstone:tutorial/root": {
+    "criteria": {
+      "auto": "2024-12-06 00:38:17 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "snowy_forest": "2024-12-05 19:32:39 +0000"
     },
     "done": false
   },
-  "minecraft:recipes/decorations/chest": {
+  "tombstone:tutorial/christmas": {
     "criteria": {
-      "has_lots_of_items": "2024-12-05 19:37:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/root": {
-    "criteria": {
-      "killed_by_something": "2024-12-05 19:29:05 +0000"
+      "coded_trigger": "2024-12-06 00:38:17 +0000"
     },
     "done": true
   },
@@ -29,9 +29,27 @@
     },
     "done": true
   },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2024-12-05 19:29:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2024-12-05 19:37:22 +0000"
+    },
+    "done": true
+  },
   "mowziesmobs:root": {
     "criteria": {
       "custom_test_name": "2024-12-05 19:21:46 +0000"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/mysterious_gift": {
+    "criteria": {
+      "coded_trigger": "2024-12-06 00:38:17 +0000"
     },
     "done": true
   },
