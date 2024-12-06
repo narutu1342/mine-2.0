@@ -1,0 +1,51 @@
+{
+  "ebwizardry:find_library_ruins": {
+    "criteria": {
+      "surface": "2024-12-05 19:32:41 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "snowy_forest": "2024-12-05 19:32:39 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2024-12-05 19:37:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2024-12-05 19:29:05 +0000"
+    },
+    "done": true
+  },
+  "ebwizardry:wizard_tower": {
+    "criteria": {
+      "criteria_0": "2024-12-05 19:25:15 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:root": {
+    "criteria": {
+      "custom_test_name": "2024-12-05 19:21:46 +0000"
+    },
+    "done": true
+  },
+  "ebwizardry:handbook/spells": {
+    "criteria": {
+      "criteria_0": "2024-12-05 19:34:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "ice_flats": "2024-12-05 19:21:45 +0000",
+      "cold_beach": "2024-12-05 19:23:28 +0000"
+    },
+    "done": false
+  }
+}
