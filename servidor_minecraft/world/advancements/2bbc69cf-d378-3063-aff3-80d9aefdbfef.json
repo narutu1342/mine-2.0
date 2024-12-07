@@ -89,6 +89,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/snow": {
+    "criteria": {
+      "has_snowball": "2024-12-07 01:54:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2024-12-06 18:59:20 +0000"
@@ -128,6 +134,12 @@
   "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
       "has_leather": "2024-12-06 19:01:21 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/buildingblocks/cherry_planks": {
+    "criteria": {
+      "has_log": "2024-12-07 01:52:45 +0000"
     },
     "done": true
   },
@@ -288,6 +300,12 @@
     },
     "done": true
   },
+  "dungeontactics:recipes/tools/magic_tether": {
+    "criteria": {
+      "has_recipe": "2024-12-07 01:57:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2024-12-06 19:10:40 +0000"
@@ -297,6 +315,12 @@
   "biomesoplenty:recipes/transportation/boat_ethereal": {
     "criteria": {
       "entered_water": "2024-12-06 16:51:40 +0000"
+    },
+    "done": true
+  },
+  "dungeontactics:recipes/misc/convenience/snowballs_from_snow": {
+    "criteria": {
+      "has_snowball": "2024-12-07 01:54:18 +0000"
     },
     "done": true
   },
@@ -326,6 +350,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_beef": "2024-12-07 01:39:00 +0000",
       "mutton": "2024-12-06 19:01:04 +0000",
       "bread": "2024-12-06 19:00:49 +0000",
       "cookie": "2024-12-07 00:05:48 +0000",
@@ -531,6 +556,12 @@
     },
     "done": true
   },
+  "ebwizardry:wizard_trade": {
+    "criteria": {
+      "criteria_0": "2024-12-07 01:36:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_wool": {
     "criteria": {
       "has_white_wool": "2024-12-06 18:59:20 +0000"
@@ -541,6 +572,12 @@
     "criteria": {
       "iron_boots": "2024-12-06 21:35:07 +0000",
       "iron_chestplate": "2024-12-06 21:35:07 +0000"
+    },
+    "done": true
+  },
+  "dungeontactics:recipes/misc/radio": {
+    "criteria": {
+      "has_13": "2024-12-07 01:46:14 +0000"
     },
     "done": true
   },
@@ -680,6 +717,12 @@
     },
     "done": true
   },
+  "ebwizardry:all_artefacts": {
+    "criteria": {
+      "ring_siphoning": "2024-12-07 01:50:46 +0000"
+    },
+    "done": false
+  },
   "dungeontactics:recipes/weapons/bombs": {
     "criteria": {
       "has_item": "2024-12-07 00:28:17 +0000"
@@ -713,6 +756,12 @@
   "minecraft:recipes/building_blocks/orange_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-06 23:43:45 +0000"
+    },
+    "done": true
+  },
+  "dungeontactics:recipes/misc/spidereye_soup": {
+    "criteria": {
+      "has_item": "2024-12-07 01:44:04 +0000"
     },
     "done": true
   },
@@ -758,6 +807,12 @@
     },
     "done": true
   },
+  "tombstone:tutorial/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2024-12-07 01:49:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_stained_glass_pane": {
     "criteria": {
       "has_glass": "2024-12-06 23:43:45 +0000"
@@ -772,6 +827,12 @@
       "creeper": "2024-12-07 00:17:55 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2024-12-07 01:57:01 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
@@ -800,6 +861,12 @@
   "tombstone:tutorial/first_grave": {
     "criteria": {
       "coded_trigger": "2024-12-06 16:47:18 +0000"
+    },
+    "done": true
+  },
+  "ebwizardry:artefact": {
+    "criteria": {
+      "ring_siphoning": "2024-12-07 01:50:46 +0000"
     },
     "done": true
   },
@@ -937,7 +1004,8 @@
   },
   "ebwizardry:all_spells": {
     "criteria": {
-      "meteor": "2024-12-06 22:31:39 +0000"
+      "meteor": "2024-12-06 22:31:39 +0000",
+      "magic_missile": "2024-12-07 01:53:53 +0000"
     },
     "done": false
   },
@@ -1091,6 +1159,18 @@
     },
     "done": true
   },
+  "tombstone:tutorial/chain_death": {
+    "criteria": {
+      "coded_trigger": "2024-12-07 01:49:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow_layer": {
+    "criteria": {
+      "has_snowball": "2024-12-07 01:54:18 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/wooden_pressure_plate_from_bop_wood": {
     "criteria": {
       "has_the_recipe": "2024-12-06 18:46:58 +0000"
@@ -1175,6 +1255,12 @@
     },
     "done": true
   },
+  "ebwizardry:visit_shrine": {
+    "criteria": {
+      "criteria_0": "2024-12-07 01:48:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2024-12-06 19:33:36 +0000"
@@ -1190,6 +1276,12 @@
   "minecraft:recipes/tools/lead": {
     "criteria": {
       "has_slime_ball": "2024-12-07 00:33:55 +0000"
+    },
+    "done": true
+  },
+  "ebwizardry:defeat_evil_wizard": {
+    "criteria": {
+      "criteria_0": "2024-12-07 01:49:19 +0000"
     },
     "done": true
   },
@@ -1375,6 +1467,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2024-12-07 01:57:01 +0000"
+    },
+    "done": true
+  },
+  "ebwizardry:special_upgrade": {
+    "criteria": {
+      "criteria_0": "2024-12-07 01:29:28 +0000"
+    },
+    "done": true
+  },
   "dungeontactics:recipes/traps/trap_plate": {
     "criteria": {
       "has_recipe": "2024-12-06 21:58:02 +0000"
@@ -1398,6 +1502,12 @@
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2024-12-06 19:33:36 +0000"
+    },
+    "done": true
+  },
+  "ebwizardry:defeat_remnant": {
+    "criteria": {
+      "lightning": "2024-12-07 01:53:48 +0000"
     },
     "done": true
   },
@@ -1467,6 +1577,12 @@
     },
     "done": true
   },
+  "ebwizardry:handbook/throwables": {
+    "criteria": {
+      "criteria_0": "2024-12-07 01:44:02 +0000"
+    },
+    "done": true
+  },
   "dungeontactics:recipes/weapons/iron_weapons": {
     "criteria": {
       "has_item": "2024-12-06 19:33:36 +0000"
@@ -1506,6 +1622,12 @@
   "ebwizardry:identify_spell": {
     "criteria": {
       "criteria_0": "2024-12-06 18:57:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2024-12-07 01:44:13 +0000"
     },
     "done": true
   },
@@ -1626,6 +1748,12 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2024-12-06 19:11:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2024-12-07 01:57:01 +0000"
     },
     "done": true
   },
