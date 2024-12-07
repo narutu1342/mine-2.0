@@ -251,6 +251,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2024-12-07 12:22:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-06 18:45:54 +0000"
@@ -1191,7 +1197,9 @@
   "ebwizardry:all_spells": {
     "criteria": {
       "meteor": "2024-12-06 22:31:39 +0000",
-      "magic_missile": "2024-12-07 01:53:53 +0000"
+      "ignite": "2024-12-07 03:58:18 +0000",
+      "magic_missile": "2024-12-07 01:53:53 +0000",
+      "telekinesis": "2024-12-07 03:57:54 +0000"
     },
     "done": false
   },
@@ -1570,6 +1578,12 @@
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2024-12-06 19:31:39 +0000"
+    },
+    "done": true
+  },
+  "ebwizardry:spell_failure": {
+    "criteria": {
+      "criteria_0": "2024-12-07 03:55:27 +0000"
     },
     "done": true
   },
