@@ -643,6 +643,12 @@
     },
     "done": true
   },
+  "mowziesmobs:kill_foliaath": {
+    "criteria": {
+      "foliaath": "2024-12-06 23:56:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "entered_water": "2024-12-06 16:51:40 +0000"
@@ -723,6 +729,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "skeleton": "2024-12-07 00:03:52 +0000",
       "zombie": "2024-12-06 18:49:59 +0000",
       "spider": "2024-12-06 19:10:59 +0000"
     },
@@ -836,9 +843,21 @@
     },
     "done": true
   },
+  "treasure2:recipes/crystal_skull_chest": {
+    "criteria": {
+      "has_skull": "2024-12-07 00:03:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2024-12-06 19:31:55 +0000"
+    },
+    "done": true
+  },
+  "treasure2:recipes/skull_chest": {
+    "criteria": {
+      "has_skull": "2024-12-07 00:03:53 +0000"
     },
     "done": true
   },
@@ -935,6 +954,12 @@
   "minecraft:recipes/decorations/light_blue_stained_glass_pane": {
     "criteria": {
       "has_glass": "2024-12-06 23:43:45 +0000"
+    },
+    "done": true
+  },
+  "treasure2:recipes/gold_skull_chest": {
+    "criteria": {
+      "has_skull": "2024-12-07 00:03:53 +0000"
     },
     "done": true
   },
