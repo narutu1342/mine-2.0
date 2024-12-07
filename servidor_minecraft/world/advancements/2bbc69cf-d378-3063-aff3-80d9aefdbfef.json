@@ -77,6 +77,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2024-12-07 12:40:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2024-12-06 19:00:19 +0000"
@@ -360,6 +366,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2024-12-07 12:40:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2024-12-06 19:10:40 +0000"
@@ -604,6 +616,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2024-12-07 12:40:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-06 18:45:54 +0000"
@@ -662,6 +680,12 @@
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2024-12-07 02:11:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2024-12-07 12:40:10 +0000"
     },
     "done": true
   },
@@ -870,6 +894,12 @@
   "ebwizardry:handbook/arcane_workbench": {
     "criteria": {
       "criteria_0": "2024-12-06 16:56:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2024-12-07 12:46:39 +0000"
     },
     "done": true
   },
@@ -1733,6 +1763,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2024-12-07 12:40:10 +0000"
+    },
+    "done": true
+  },
   "ebwizardry:discover_spell": {
     "criteria": {
       "criteria_0": "2024-12-06 22:31:39 +0000"
@@ -1948,6 +1984,12 @@
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2024-12-07 01:44:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2024-12-07 12:40:10 +0000"
     },
     "done": true
   },

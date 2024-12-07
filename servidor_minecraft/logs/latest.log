@@ -554,3 +554,19 @@
 [12:20:50] [Server thread/INFO] [Waila]: Player EntityPlayerMP['narutu1313'/54, l='world', x=836.03, y=200.00, z=61.16] connected. Sending ping
 [12:22:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: narutu1313 has made the advancement [Cover Me With Diamonds]
 [12:22:29] [Server thread/INFO] [ebwizardry]: Synchronising advancements for narutu1313
+[12:40:10] [Server thread/INFO] [ebwizardry]: Synchronising advancements for narutu1313
+[12:40:10] [Server thread/INFO] [ebwizardry]: Synchronising advancements for narutu1313
+[12:40:10] [Server thread/INFO] [ebwizardry]: Synchronising advancements for narutu1313
+[12:40:10] [Server thread/INFO] [ebwizardry]: Synchronising advancements for narutu1313
+[12:40:10] [Server thread/INFO] [ebwizardry]: Synchronising advancements for narutu1313
+[12:40:10] [Server thread/INFO] [ebwizardry]: Synchronising advancements for narutu1313
+[12:44:04] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: narutu1313 moved wrongly!
+[12:45:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [narutu1313: Set game difficulty to Peaceful]
+[12:46:39] [Server thread/INFO] [ebwizardry]: Synchronising advancements for narutu1313
+[12:55:16] [Server thread/INFO] [bettercaves]: Better Caves config file for dimension 0 not found. Using global config...
+[12:55:16] [Server thread/INFO] [bettercaves]: Using block 'minecraft:lava' as lava in cave generation for dimension 0 (OVERWORLD) ...
+[12:55:16] [Server thread/INFO] [bettercaves]: Using block 'minecraft:water' as water in cave generation for dimension 0 (OVERWORLD) ...
+[12:55:16] [Server thread/INFO] [bettercaves]: Better Caves config file for dimension 0 not found. Using global config...
+[12:55:16] [Server thread/INFO] [bettercaves]: Using block 'minecraft:lava' as lava in cave generation for dimension 0 (OVERWORLD) ...
+[12:55:16] [Server thread/INFO] [bettercaves]: Using block 'minecraft:water' as water in cave generation for dimension 0 (OVERWORLD) ...
+[12:57:35] [Server thread/INFO] [ebwizardry]: Synchronising advancements for narutu1313
