@@ -1225,3 +1225,12 @@ Alternatively start the server with -Dfml.queryResult=confirm or -Dfml.queryResu
 [01:13:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [narutu1313: Set own game mode to Creative Mode]
 [01:15:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [narutu1313: Set own game mode to Survival Mode]
 [01:18:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [narutu1313: Set own game mode to Creative Mode]
+[01:22:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [narutu1313: Set own game mode to Survival Mode]
+[01:22:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: narutu1313 is bleeding...
+[01:22:49] [Server thread/INFO] [tombstone]: The death event of the player narutu1313 was cancelled by another mod
+[01:22:49] [Server thread/INFO] [tombstone]: narutu1313 has successfully been saved
+[01:22:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: narutu1313 was blown up by Creeper
+[01:22:52] [Server thread/INFO] [tombstone]: The last known grave of narutu1313 is at location [name:Last Grave, x:832, y:158, z:74] in the dimension 0
+[01:25:41] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to narutu1313
+[01:29:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: narutu1313 has made the advancement [Arcane Tinkering]
+[01:29:28] [Server thread/INFO] [ebwizardry]: Synchronising advancements for narutu1313
