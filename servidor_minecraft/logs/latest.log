@@ -611,3 +611,11 @@
 [13:16:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: narutu1313 tried to swim in lava
 [13:16:53] [Server thread/INFO] [tombstone]: The last known grave of narutu1313 is at location [name:Last Grave, x:816, y:10, z:197] in the dimension 0
 [13:16:56] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to narutu1313
+[13:20:48] [Server thread/INFO] [ebwizardry]: Synchronising advancements for narutu1313
+[13:25:18] [Server thread/INFO] [ebwizardry]: Synchronising advancements for narutu1313
+[13:25:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: narutu1313 is bleeding...
+[13:25:33] [Server thread/INFO] [tombstone]: The death event of the player narutu1313 was cancelled by another mod
+[13:25:33] [Server thread/INFO] [tombstone]: narutu1313 has successfully been saved
+[13:25:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: narutu1313 tried to swim in lava
+[13:25:35] [Server thread/INFO] [tombstone]: The last known grave of narutu1313 is at location [name:Last Grave, x:828, y:6, z:241] in the dimension 0
+[13:25:37] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to narutu1313
