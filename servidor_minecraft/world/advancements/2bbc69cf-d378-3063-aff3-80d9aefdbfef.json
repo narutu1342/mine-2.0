@@ -1074,6 +1074,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2024-12-07 03:40:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-06 23:43:45 +0000"
@@ -1170,15 +1176,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/yellow_stained_hardened_clay": {
-    "criteria": {
-      "has_hardened_clay": "2024-12-07 02:26:19 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/light_blue_dye_from_lapis_bonemeal": {
     "criteria": {
       "has_lapis": "2024-12-07 02:13:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_stained_hardened_clay": {
+    "criteria": {
+      "has_hardened_clay": "2024-12-07 02:26:19 +0000"
     },
     "done": true
   },
@@ -1853,15 +1859,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/magenta_stained_hardened_clay": {
-    "criteria": {
-      "has_hardened_clay": "2024-12-07 02:26:19 +0000"
-    },
-    "done": true
-  },
   "ebwizardry:handbook/throwables": {
     "criteria": {
       "criteria_0": "2024-12-07 01:44:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_stained_hardened_clay": {
+    "criteria": {
+      "has_hardened_clay": "2024-12-07 02:26:19 +0000"
     },
     "done": true
   },
@@ -1985,15 +1991,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/jungle_fence_gate": {
-    "criteria": {
-      "has_planks": "2024-12-07 02:31:55 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_stone": "2024-12-07 02:02:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-07 02:31:55 +0000"
     },
     "done": true
   },
