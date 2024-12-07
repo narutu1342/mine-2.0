@@ -570,3 +570,7 @@
 [12:55:16] [Server thread/INFO] [bettercaves]: Using block 'minecraft:lava' as lava in cave generation for dimension 0 (OVERWORLD) ...
 [12:55:16] [Server thread/INFO] [bettercaves]: Using block 'minecraft:water' as water in cave generation for dimension 0 (OVERWORLD) ...
 [12:57:35] [Server thread/INFO] [ebwizardry]: Synchronising advancements for narutu1313
+[12:58:11] [Server thread/INFO] [ebwizardry]: Synchronising advancements for narutu1313
+[12:58:11] [Server thread/INFO] [ebwizardry]: Synchronising advancements for narutu1313
+[13:04:27] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTableManager]: Couldn't find resource table treasure2:pools/treasure/scarce
+[13:04:27] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTable]: Tried to over-fill a container
