@@ -1354,3 +1354,26 @@ Alternatively start the server with -Dfml.queryResult=confirm or -Dfml.queryResu
 [02:20:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: narutu1313 is bleeding...
 [02:20:19] [Server thread/INFO] [tombstone]: The death event of the player narutu1313 was cancelled by another mod
 [02:20:19] [Server thread/INFO] [tombstone]: narutu1313 has successfully been saved
+[02:20:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: narutu1313 was slain by Skeleton
+[02:20:22] [Server thread/INFO] [tombstone]: The last known grave of narutu1313 is at location [name:Last Grave, x:801, y:15, z:-137] in the dimension 0
+[02:20:24] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to narutu1313
+[02:20:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [narutu1313: Given Night Vision (ID 16) * 1 to narutu1313 for 10000 seconds]
+[02:23:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [narutu1313: Set own game mode to Creative Mode]
+[02:26:19] [Server thread/INFO] [ebwizardry]: Synchronising advancements for narutu1313
+[02:26:19] [Server thread/INFO] [ebwizardry]: Synchronising advancements for narutu1313
+[02:26:19] [Server thread/INFO] [ebwizardry]: Synchronising advancements for narutu1313
+[02:26:19] [Server thread/INFO] [ebwizardry]: Synchronising advancements for narutu1313
+[02:26:19] [Server thread/INFO] [ebwizardry]: Synchronising advancements for narutu1313
+[02:26:19] [Server thread/INFO] [ebwizardry]: Synchronising advancements for narutu1313
+[02:26:19] [Server thread/INFO] [ebwizardry]: Synchronising advancements for narutu1313
+[02:26:19] [Server thread/INFO] [ebwizardry]: Synchronising advancements for narutu1313
+[02:26:19] [Server thread/INFO] [ebwizardry]: Synchronising advancements for narutu1313
+[02:26:19] [Server thread/INFO] [ebwizardry]: Synchronising advancements for narutu1313
+[02:26:19] [Server thread/INFO] [ebwizardry]: Synchronising advancements for narutu1313
+[02:26:19] [Server thread/INFO] [ebwizardry]: Synchronising advancements for narutu1313
+[02:26:19] [Server thread/INFO] [ebwizardry]: Synchronising advancements for narutu1313
+[02:26:19] [Server thread/INFO] [ebwizardry]: Synchronising advancements for narutu1313
+[02:26:19] [Server thread/INFO] [ebwizardry]: Synchronising advancements for narutu1313
+[02:26:19] [Server thread/INFO] [ebwizardry]: Synchronising advancements for narutu1313
+[02:26:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [narutu1313: Set own game mode to Survival Mode]
+[02:29:38] [Server thread/INFO] [ebwizardry]: Synchronising advancements for narutu1313
