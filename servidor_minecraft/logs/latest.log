@@ -585,3 +585,11 @@
 [23:35:03] [Server thread/INFO] [ebwizardry]: Synchronising advancements for narutu1313
 [23:35:03] [Server thread/INFO] [ebwizardry]: Synchronising advancements for narutu1313
 [23:35:15] [Server thread/INFO] [ebwizardry]: Synchronising advancements for narutu1313
+[23:35:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [narutu1313: Given [Ender Pearl] * 6 to narutu1313]
+[23:41:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [narutu1313: Given [Oak Wood] * 64 to narutu1313]
+[23:43:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: narutu1313 is bleeding...
+[23:43:19] [Server thread/INFO] [tombstone]: The death event of the player narutu1313 was cancelled by another mod
+[23:43:19] [Server thread/INFO] [tombstone]: narutu1313 has successfully been saved
+[23:43:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: narutu1313 fell from a high place
+[23:43:23] [Server thread/INFO] [tombstone]: The last known grave of narutu1313 is at location [name:Last Grave, x:844, y:43, z:54] in the dimension 0
+[23:43:25] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to narutu1313
