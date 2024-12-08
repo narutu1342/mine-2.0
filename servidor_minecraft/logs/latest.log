@@ -557,3 +557,7 @@
 [20:55:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [narutu1313: Set own game mode to Spectator Mode]
 [20:55:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [narutu1313: Set game difficulty to Peaceful]
 [20:56:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [narutu1313: Set own game mode to Creative Mode]
+[20:58:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [narutu1313: Set own game mode to Survival Mode]
+[20:58:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [narutu1313: Set own game mode to Creative Mode]
+[21:02:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [narutu1313: Set the time to 13000]
+[21:06:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [narutu1313: Set own game mode to Survival Mode]
