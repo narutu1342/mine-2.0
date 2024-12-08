@@ -550,3 +550,10 @@
 [20:29:48] [Server thread/INFO] [ebwizardry]: Synchronising config settings for narutu1313
 [20:29:48] [Server thread/INFO] [ebwizardry]: Synchronising advancements for narutu1313
 [20:29:48] [Server thread/INFO] [Waila]: Player EntityPlayerMP['narutu1313'/54, l='world', x=843.94, y=158.00, z=61.08] connected. Sending ping
+[20:52:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [narutu1313: Set game difficulty to Peaceful]
+[20:52:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [narutu1313: Set own game mode to Spectator Mode]
+[20:53:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [narutu1313: Set game difficulty to Normal]
+[20:54:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [narutu1313: Set own game mode to Survival Mode]
+[20:55:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [narutu1313: Set own game mode to Spectator Mode]
+[20:55:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [narutu1313: Set game difficulty to Peaceful]
+[20:56:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [narutu1313: Set own game mode to Creative Mode]
