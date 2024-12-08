@@ -565,3 +565,39 @@
 [21:10:44] [Server thread/INFO] [ebwizardry]: Synchronising advancements for narutu1313
 [21:14:06] [Server thread/INFO] [ebwizardry]: Synchronising advancements for narutu1313
 [21:14:06] [Server thread/INFO] [ebwizardry]: Synchronising advancements for narutu1313
+[21:17:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [narutu1313: Set game difficulty to Normal]
+[21:18:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [narutu1313: Set game difficulty to Peaceful]
+[21:18:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [narutu1313: Set own game mode to Creative Mode]
+[21:18:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [narutu1313: Set own game mode to Spectator Mode]
+[21:18:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [narutu1313: Set game difficulty to Normal]
+[21:19:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [narutu1313: Set own game mode to Creative Mode]
+[21:20:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [narutu1313: Set game difficulty to Peaceful]
+[21:20:05] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTableManager]: Couldn't find resource table treasure2:pools/treasure/scarce
+[21:20:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [narutu1313: Set own game mode to Spectator Mode]
+[21:20:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [narutu1313: Set the time to 13000]
+[21:21:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [narutu1313: Set game difficulty to Normal]
+[21:21:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [narutu1313: Set own game mode to Survival Mode]
+[21:22:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [narutu1313: Set own game mode to Spectator Mode]
+[21:23:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [narutu1313: Set own game mode to Creative Mode]
+[21:23:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [narutu1313: Set own game mode to Spectator Mode]
+[21:23:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [narutu1313: Set own game mode to Creative Mode]
+[21:24:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [narutu1313: Set own game mode to Survival Mode]
+[21:24:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [narutu1313: Set own game mode to Creative Mode]
+[21:24:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [narutu1313: Set own game mode to Creative Mode]
+[21:24:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [narutu1313: Set own game mode to Survival Mode]
+[21:24:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [narutu1313: Set own game mode to Spectator Mode]
+[21:24:55] [Server thread/INFO] [bettercaves]: Better Caves config file for dimension 0 not found. Using global config...
+[21:24:55] [Server thread/INFO] [bettercaves]: Using block 'minecraft:lava' as lava in cave generation for dimension 0 (OVERWORLD) ...
+[21:24:55] [Server thread/INFO] [bettercaves]: Using block 'minecraft:water' as water in cave generation for dimension 0 (OVERWORLD) ...
+[21:24:56] [Server thread/INFO] [bettercaves]: Better Caves config file for dimension 0 not found. Using global config...
+[21:24:56] [Server thread/INFO] [bettercaves]: Using block 'minecraft:lava' as lava in cave generation for dimension 0 (OVERWORLD) ...
+[21:24:56] [Server thread/INFO] [bettercaves]: Using block 'minecraft:water' as water in cave generation for dimension 0 (OVERWORLD) ...
+[21:24:56] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: narutu1313 moved too quickly! 8.940137228145318,2.250000089406967,4.434555280353056
+[21:25:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [narutu1313: Set own game mode to Survival Mode]
+[21:25:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [narutu1313: Set own game mode to Spectator Mode]
+[21:25:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [narutu1313: Set own game mode to Creative Mode]
+[21:25:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [narutu1313: Set own game mode to Spectator Mode]
+[21:26:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [narutu1313: Set own game mode to Survival Mode]
+[21:26:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [narutu1313: Set own game mode to Creative Mode]
+[21:27:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [narutu1313: Set game difficulty to Peaceful]
+[21:27:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [narutu1313: Set own game mode to Spectator Mode]
