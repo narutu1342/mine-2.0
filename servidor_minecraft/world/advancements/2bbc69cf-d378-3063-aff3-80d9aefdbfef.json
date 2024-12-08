@@ -1436,6 +1436,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2024-12-08 23:09:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2024-12-06 18:59:20 +0000"
@@ -1452,6 +1458,7 @@
     "criteria": {
       "cooked_beef": "2024-12-07 01:39:00 +0000",
       "baked_potato": "2024-12-07 14:16:01 +0000",
+      "cooked_cod": "2024-12-08 23:05:36 +0000",
       "mutton": "2024-12-06 19:01:04 +0000",
       "bread": "2024-12-06 19:00:49 +0000",
       "golden_apple": "2024-12-07 13:28:06 +0000",
@@ -2378,6 +2385,12 @@
   "dungeontactics:recipes/armour/studded_armour": {
     "criteria": {
       "has_item": "2024-12-06 19:33:36 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/food/bowl_of_rice": {
+    "criteria": {
+      "has_bowl": "2024-12-08 23:09:39 +0000"
     },
     "done": true
   },

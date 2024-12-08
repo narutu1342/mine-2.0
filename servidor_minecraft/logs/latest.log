@@ -550,3 +550,7 @@
 [22:59:16] [Server thread/INFO] [ebwizardry]: Synchronising config settings for narutu1313
 [22:59:16] [Server thread/INFO] [ebwizardry]: Synchronising advancements for narutu1313
 [22:59:16] [Server thread/INFO] [Waila]: Player EntityPlayerMP['narutu1313'/54, l='world', x=834.46, y=200.00, z=57.84] connected. Sending ping
+[23:09:39] [Server thread/INFO] [ebwizardry]: Synchronising advancements for narutu1313
+[23:09:39] [Server thread/INFO] [ebwizardry]: Synchronising advancements for narutu1313
+[23:09:48] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: narutu1313 moved too quickly! -0.9964060949022269,-10.534219569204453,0.5228574691858796
+[23:11:55] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: narutu1313 moved too quickly! -0.7252710465389782,-10.269203432836377,1.0060241921427817
