@@ -281,6 +281,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2024-12-08 23:18:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2024-12-06 19:33:36 +0000"
@@ -617,6 +623,12 @@
   "minecraft:recipes/decorations/pink_stained_glass_pane": {
     "criteria": {
       "has_glass": "2024-12-06 23:43:45 +0000"
+    },
+    "done": true
+  },
+  "dungeontactics:recipes/misc/rings": {
+    "criteria": {
+      "has_gold": "2024-12-08 23:18:30 +0000"
     },
     "done": true
   },
@@ -1249,6 +1261,12 @@
     },
     "done": true
   },
+  "ebwizardry:arcane_initiate": {
+    "criteria": {
+      "criteria_0": "2024-12-08 23:18:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-06 18:45:54 +0000"
@@ -1809,6 +1827,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_at_least_9_gold_nugget": "2024-12-08 23:18:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/lapis_lazuli": {
     "criteria": {
       "has_the_recipe": "2024-12-07 02:13:56 +0000"
@@ -2091,6 +2115,12 @@
   "biomesoplenty:biomesoplenty/root": {
     "criteria": {
       "bop_flower_0": "2024-12-08 21:14:06 +0000"
+    },
+    "done": true
+  },
+  "dungeontactics:recipes/misc/lantern_magic": {
+    "criteria": {
+      "has_gold": "2024-12-08 23:18:30 +0000"
     },
     "done": true
   },
