@@ -797,3 +797,5 @@
 [22:01:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [narutu1313: Set own game mode to Survival Mode]
 [22:02:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [narutu1313: Set own game mode to Creative Mode]
 [22:04:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [narutu1313: Set own game mode to Survival Mode]
+[22:25:02] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: narutu1313 lost connection: Timed out
+[22:25:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: narutu1313 left the game
