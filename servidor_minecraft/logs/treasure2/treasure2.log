@@ -1013,3 +1013,4 @@
 2024-12-08 22:55:33,919 [Server thread] WARN Treasure2 | TreasureDecayManager.java:201 | Expected to find meta treasure2:rulesets/aged_ruleset.json at ./world/data/decay/treasure2/rulesets/aged_ruleset.json but it doesn't exist.
 2024-12-08 22:55:33,925 [Server thread] WARN Treasure2 | TreasureDecayManager.java:201 | Expected to find meta treasure2:rulesets/default_ruleset.json at ./world/data/decay/treasure2/rulesets/default_ruleset.json but it doesn't exist.
 2024-12-08 22:55:33,925 [Server thread] WARN Treasure2 | TreasureDecayManager.java:201 | Expected to find meta treasure2:rulesets/ruinous_ruleset.json at ./world/data/decay/treasure2/rulesets/ruinous_ruleset.json but it doesn't exist.
+2024-12-08 23:32:12,459 [Server thread] INFO Treasure2 | SubmergedChestWorldGenerator.java:307 | CHEATER! EPIC chest at coords: 456 59 -445

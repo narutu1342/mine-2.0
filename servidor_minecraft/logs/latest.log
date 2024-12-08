@@ -561,3 +561,27 @@
 [23:18:30] [Server thread/INFO] [ebwizardry]: Synchronising advancements for narutu1313
 [23:18:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: narutu1313 has made the advancement [Arcane Initiate]
 [23:18:48] [Server thread/INFO] [ebwizardry]: Synchronising advancements for narutu1313
+[23:26:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [narutu1313: Set game difficulty to Peaceful]
+[23:26:58] [Server thread/WARN] [net.minecraft.entity.EntityList]: Skipping Entity with id mowziesmobs:ferrous_wroughtnaut
+[23:28:52] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: narutu1313 moved wrongly!
+[23:28:56] [Server thread/INFO] [ebwizardry]: Synchronising advancements for narutu1313
+[23:30:03] [Server thread/INFO] [ebwizardry]: Synchronising advancements for narutu1313
+[23:30:03] [Server thread/INFO] [ebwizardry]: Synchronising advancements for narutu1313
+[23:31:20] [Server thread/INFO] [ebwizardry]: Synchronising advancements for narutu1313
+[23:32:07] [Server thread/INFO] [bettercaves]: Better Caves config file for dimension 0 not found. Using global config...
+[23:32:07] [Server thread/INFO] [bettercaves]: Using block 'minecraft:lava' as lava in cave generation for dimension 0 (OVERWORLD) ...
+[23:32:07] [Server thread/INFO] [bettercaves]: Using block 'minecraft:water' as water in cave generation for dimension 0 (OVERWORLD) ...
+[23:32:08] [Server thread/INFO] [bettercaves]: Better Caves config file for dimension 0 not found. Using global config...
+[23:32:08] [Server thread/INFO] [bettercaves]: Using block 'minecraft:lava' as lava in cave generation for dimension 0 (OVERWORLD) ...
+[23:32:08] [Server thread/INFO] [bettercaves]: Using block 'minecraft:water' as water in cave generation for dimension 0 (OVERWORLD) ...
+[23:32:08] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: narutu1313 moved too quickly! 4.740500065306264,0.9642611250894646,-9.101141966445255
+[23:32:14] [Server thread/WARN] [FML]: Thaumcraft loaded a new chunk [21, -30] in dimension 0 (overworld) while populating chunk [22, -30], causing cascading worldgen lag.
+[23:32:14] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:32:14] [Server thread/WARN] [FML]: Thaumcraft loaded a new chunk [21, -31] in dimension 0 (overworld) while populating chunk [22, -30], causing cascading worldgen lag.
+[23:32:14] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:34:54] [Server thread/INFO] [ebwizardry]: Synchronising advancements for narutu1313
+[23:34:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [narutu1313: Given [Poppy] * 1 to narutu1313]
+[23:35:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [narutu1313: Given [Poppy] * 3 to narutu1313]
+[23:35:03] [Server thread/INFO] [ebwizardry]: Synchronising advancements for narutu1313
+[23:35:03] [Server thread/INFO] [ebwizardry]: Synchronising advancements for narutu1313
+[23:35:15] [Server thread/INFO] [ebwizardry]: Synchronising advancements for narutu1313
