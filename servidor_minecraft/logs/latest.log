@@ -773,3 +773,21 @@
 [21:47:27] [Server thread/WARN] [FML]: Biomes O' Plenty loaded a new chunk [399, 57] in dimension 0 (overworld) while populating chunk [398, 56], causing cascading worldgen lag.
 [21:47:27] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
 [21:47:27] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 9573ms behind, skipping 191 tick(s)
+[21:48:00] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: narutu1313 moved too quickly! 0.07755310506604474,-11.535308422694243,0.022028648413879637
+[21:48:08] [Server thread/INFO] [STDOUT]: [biomesoplenty.common.world.BiomeProviderBOPHell:<init>:32]: settings for hell world: 
+[21:48:08] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@10cf9b5e)
+[21:48:08] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world -1
+[21:48:08] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to narutu1313
+[21:48:08] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for narutu1313
+[21:48:08] [Thread-19/INFO] [THAUMCRAFT]: Starting aura thread for dim -1
+[21:48:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [narutu1313: Set own game mode to Spectator Mode]
+[21:48:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [narutu1313: Set own game mode to Creative Mode]
+[21:51:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [narutu1313: Set own game mode to Spectator Mode]
+[21:52:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [narutu1313: Set own game mode to Creative Mode]
+[21:53:19] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to narutu1313
+[21:53:19] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for narutu1313
+[21:53:20] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world -1
+[21:53:21] [Thread-19/INFO] [THAUMCRAFT]: Stopping aura thread for dim -1
+[21:53:22] [Server thread/INFO] [FML]: Unloading dimension -1
+[21:54:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [narutu1313: Set own game mode to Survival Mode]
+[21:57:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [narutu1313: Set game difficulty to Normal]
