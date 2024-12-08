@@ -443,6 +443,7 @@
       "coral_reef": "2024-12-06 18:50:21 +0000",
       "boreal_forest": "2024-12-06 21:35:07 +0000",
       "cherry_blossom_grove": "2024-12-06 19:01:15 +0000",
+      "visceral_heap": "2024-12-08 21:41:44 +0000",
       "snowy_forest": "2024-12-05 19:32:39 +0000",
       "brushland": "2024-12-06 16:52:19 +0000"
     },
@@ -1049,6 +1050,7 @@
       "ice_mountains": "2024-12-06 18:50:27 +0000",
       "taiga": "2024-12-06 19:03:48 +0000",
       "ocean": "2024-12-06 16:46:36 +0000",
+      "extreme_hills": "2024-12-08 21:46:58 +0000",
       "cold_beach": "2024-12-05 19:23:28 +0000",
       "river": "2024-12-06 19:03:54 +0000",
       "stone_beach": "2024-12-06 21:36:33 +0000"
@@ -1286,6 +1288,12 @@
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2024-12-06 18:59:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2024-12-08 21:41:41 +0000"
     },
     "done": true
   },
@@ -1749,6 +1757,12 @@
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2024-12-07 02:11:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2024-12-08 21:41:41 +0000"
     },
     "done": true
   },
