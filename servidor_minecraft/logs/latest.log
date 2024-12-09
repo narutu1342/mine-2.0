@@ -1308,3 +1308,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'futureminecraf:oldbrick'
 [01:59:16] [Server thread/INFO] [ebwizardry]: Synchronising config settings for narutu1313
 [01:59:16] [Server thread/INFO] [ebwizardry]: Synchronising advancements for narutu1313
 [01:59:16] [Server thread/INFO] [Waila]: Player EntityPlayerMP['narutu1313'/55, l='world', x=830.83, y=158.00, z=74.57] connected. Sending ping
+[02:11:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [narutu1313: Set own game mode to Creative Mode]
+[02:11:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [narutu1313: Set own game mode to Survival Mode]
+[02:12:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [narutu1313: Set own game mode to Creative Mode]
+[02:14:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [narutu1313: Set own game mode to Survival Mode]
+[02:15:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [narutu1313: Set own game mode to Creative Mode]
