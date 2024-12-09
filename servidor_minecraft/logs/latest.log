@@ -833,3 +833,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'futureminecraf:oldbrick'
 [15:25:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [narutu1313: Set own game mode to Survival Mode]
 [15:26:40] [Server thread/INFO] [ebwizardry]: Synchronising advancements for narutu1313
 [15:26:40] [Server thread/INFO] [ebwizardry]: Synchronising advancements for narutu1313
+[15:32:09] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: narutu1313 lost connection: Timed out
+[15:32:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: narutu1313 left the game
