@@ -826,3 +826,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'futureminecraf:oldbrick'
 [14:50:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [narutu1313: Set own game mode to Survival Mode]
 [14:51:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [narutu1313: Set the time to 13000]
 [14:54:37] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: narutu1313 moved wrongly!
+[14:58:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [narutu1313: Set own game mode to Creative Mode]
+[14:59:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [narutu1313: Set own game mode to Survival Mode]
