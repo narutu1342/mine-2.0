@@ -626,6 +626,18 @@
     },
     "done": true
   },
+  "dungeontactics:recipes/armour/silver_armour": {
+    "criteria": {
+      "has_item": "2024-12-09 00:37:49 +0000"
+    },
+    "done": true
+  },
+  "dungeontactics:recipes/armour/silver_plate_armour": {
+    "criteria": {
+      "has_item": "2024-12-09 00:37:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_at_least_9_redstone": "2024-12-07 02:12:40 +0000"
@@ -842,6 +854,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2024-12-09 00:31:24 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/buildingblocks/coarse_loamy_dirt": {
     "criteria": {
       "has_gravel": "2024-12-06 19:10:02 +0000"
@@ -899,6 +917,12 @@
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-06 18:45:54 +0000"
+    },
+    "done": true
+  },
+  "dungeontactics:recipes/tools/silver_tools": {
+    "criteria": {
+      "has_item": "2024-12-09 00:37:49 +0000"
     },
     "done": true
   },
@@ -1794,6 +1818,12 @@
   "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2024-12-07 02:11:49 +0000"
+    },
+    "done": true
+  },
+  "dungeontactics:recipes/weapons/silver_weapons": {
+    "criteria": {
+      "has_item": "2024-12-09 00:37:49 +0000"
     },
     "done": true
   },
