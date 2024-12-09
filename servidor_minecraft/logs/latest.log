@@ -805,3 +805,18 @@ com.google.gson.JsonSyntaxException: Unknown item 'futureminecraf:oldbrick'
 [14:30:08] [Server thread/INFO] [ebwizardry]: Synchronising advancements for narutu1313
 [14:31:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [narutu1313: Set own game mode to Creative Mode]
 [14:31:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [narutu1313: Set own game mode to Survival Mode]
+[14:37:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [narutu1313: Given Night Vision (ID 16) * 2 to narutu1313 for 30000 seconds]
+[14:38:11] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: narutu1313 moved wrongly!
+[14:38:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: narutu1313 moved wrongly!
+[14:39:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [narutu1313: Set own game mode to Spectator Mode]
+[14:40:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [narutu1313: Set own game mode to Survival Mode]
+[14:41:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [narutu1313: Given 2000 experience to narutu1313]
+[14:43:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [narutu1313: Set own game mode to Creative Mode]
+[14:43:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [narutu1313: Set own game mode to Survival Mode]
+[14:43:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [narutu1313: Set own game mode to Creative Mode]
+[14:43:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [narutu1313: Set own game mode to Survival Mode]
+[14:43:51] [Server thread/INFO] [ebwizardry]: Synchronising advancements for narutu1313
+[14:44:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [narutu1313: Set own game mode to Creative Mode]
+[14:45:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [narutu1313: Set own game mode to Survival Mode]
+[14:45:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [narutu1313: Set own game mode to Creative Mode]
+[14:46:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [narutu1313: Given [Skeleton Skull] * 1 to narutu1313]
