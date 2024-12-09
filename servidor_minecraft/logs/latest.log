@@ -1,31 +1,1310 @@
-[00:04:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [narutu1313: Set own game mode to Spectator Mode]
-[00:05:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [narutu1313: Set own game mode to Creative Mode]
-[00:05:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [narutu1313: Set own game mode to Survival Mode]
-[00:07:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [narutu1313: Set own game mode to Creative Mode]
-[00:09:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [narutu1313: Set own game mode to Survival Mode]
-[00:16:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [narutu1313: Set own game mode to Creative Mode]
-[00:17:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [narutu1313: Set own game mode to Survival Mode]
-[00:17:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [narutu1313: Set own game mode to Creative Mode]
-[00:18:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [narutu1313: Set own game mode to Survival Mode]
-[00:22:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [narutu1313: Set the time to 13000]
-[00:28:20] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: narutu1313 lost connection: Timed out
-[00:28:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: narutu1313 left the game
-[00:28:50] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
-[00:28:50] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 55 mods : mowziesmobs@1.5.8,dungeontactics@DT-0.16.9,hats@7.1.1,creativecoredummy@1.0.0,ebwizardry@4.3.14,jei@4.16.1.1013,persistentbits@1.0.6a,bettercaves@1.12.2,neat@1.4-17,waystones@4.1.0,mcp@9.42,journeymap@1.12.2-5.7.1p2,artifacts@1.12.2-1.2.4,travelersbackpack@1.0.35,inventorytweaks@1.63+release.109.220f184,harvestcraft@1.12.2zb,stg@1.12.2-1.2.3,foamfixcore@7.7.4,hatstand@7.1.0,llibrary@1.7.20,betterbuilderswands@0.13.2,waila@1.8.26,ichunutil@7.2.2,tlauncher_custom_cape_skin@1.4,thaumcraft@6.1.BETA26,ido@2.0.0-B,forge@14.23.5.2860,chesttransporter@2.8.8,ironchest@1.12.2-7.0.67.844,minecraft@1.12.2,tconstruct@1.12.2-2.13.0.183,torchmaster@1.8.4.84,openglider@@VERSION@,biomesoplenty@7.0.1.2445,baubles@1.5.2,ironfurnaces@1.3.5,creativecore@1.10.0,treasure2@2.3.1,geographicraft@1.0,roguelike@1.8.0,mantle@1.12-1.3.3.55,spartanshields@1.5.5,fenceoverhaul@1.3.4,securitycraft@v1.9.12,FML@8.0.99.99,obfuscate@0.4.2,gottschcore@1.15.1,tombstone@4.7.4,rtg@6.1.0.0-snapshot.1,login_shield@1.12.2-6-g5654706,backtools@7.0.1,foamfix@@VERSION@,netherendingores@1.12.2-1.4.2,dynamictrees@1.12.2-0.9.29,playerrevive@1.0
-[00:28:50] [Netty Epoll Server IO #3/INFO] [journeymap]: CLIENT
-[00:28:59] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[00:28:59] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: narutu1313[/127.0.0.1:37426] logged in with entity id 1338013 at (831.9263877654703, 158.0, 74.79319051055003)
-[00:28:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: narutu1313 joined the game
-[00:28:59] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to narutu1313
-[00:28:59] [Server thread/INFO] [ebwizardry]: Synchronising spell glyph data for narutu1313
-[00:28:59] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for narutu1313
-[00:28:59] [Server thread/INFO] [ebwizardry]: Synchronising config settings for narutu1313
-[00:29:00] [Server thread/INFO] [ebwizardry]: Synchronising advancements for narutu1313
-[00:29:00] [Server thread/INFO] [Waila]: Player EntityPlayerMP['narutu1313'/1338013, l='world', x=831.93, y=158.00, z=74.79] connected. Sending ping
-[00:30:38] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: narutu1313 moved too quickly! 0.0,-16.154627845386408,0.0
-[00:31:24] [Server thread/INFO] [ebwizardry]: Synchronising advancements for narutu1313
-[00:31:57] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: narutu1313 moved too quickly! 0.3768233512869301,-10.844378573255256,1.26203257177351
-[00:37:49] [Server thread/INFO] [ebwizardry]: Synchronising advancements for narutu1313
-[00:37:49] [Server thread/INFO] [ebwizardry]: Synchronising advancements for narutu1313
-[00:37:49] [Server thread/INFO] [ebwizardry]: Synchronising advancements for narutu1313
-[00:37:49] [Server thread/INFO] [ebwizardry]: Synchronising advancements for narutu1313
+[01:56:16] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[01:56:16] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[01:56:16] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[01:56:16] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2860 for Minecraft 1.12.2 loading
+[01:56:16] [main/INFO] [FML]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_432, running on Linux:amd64:6.5.0-1025-azure, installed at /usr/lib/jvm/java-8-openjdk-amd64/jre
+[01:56:16] [main/INFO] [FML]: Searching /workspaces/mine-2.0/servidor_minecraft/./mods for mods
+[01:56:16] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from [1.12.2] SecurityCraft v1.9.12.jar
+[01:56:16] [main/INFO] [FML]: Loading tweaker guichaguri.betterfps.tweaker.BetterFpsTweaker from BetterFps-1.4.8.jar
+[01:56:16] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in CreativeCore_v1.10.71_mc1.12.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[01:56:16] [main/WARN] [FML]: The coremod com.creativemd.creativecore.core.CreativePatchingLoader does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[01:56:16] [main/WARN] [FML]: The coremod CreativePatchingLoader (com.creativemd.creativecore.core.CreativePatchingLoader) is not signed!
+[01:56:16] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in foamfix-0.10.15-1.12.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[01:56:16] [main/WARN] [FML]: The coremod pl.asie.foamfix.coremod.FoamFixCore does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[01:56:16] [main/WARN] [FML]: The coremod Do not report to Forge! (If you haven't disabled the FoamFix coremod, try disabling it in the config! Note that this bit of text will still appear.) (pl.asie.foamfix.coremod.FoamFixCore) is not signed!
+[01:56:16] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in InventoryTweaks-1.63.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[01:56:16] [main/WARN] [FML]: The coremod invtweaks.forge.asm.FMLPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[01:56:16] [main/WARN] [FML]: The coremod ObfuscatePlugin (com.mrcrayfish.obfuscate.asm.ObfuscatePlugin) is not signed!
+[01:56:16] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[01:56:16] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.launch.MixinTweaker
+[01:56:16] [main/INFO] [mixin]: SpongePowered MIXIN Subsystem Version=0.8.3 Source=file:/workspaces/mine-2.0/servidor_minecraft/./mods/%5B1.12.2%5D%20SecurityCraft%20v1.9.12.jar Service=LaunchWrapper Env=SERVER
+[01:56:16] [main/WARN] [FML]: The coremod SecurityCraftLoadingPlugin (net.geforcemods.securitycraft.SecurityCraftLoadingPlugin) is not signed!
+[01:56:16] [main/INFO] [mixin]: Compatibility level set to JAVA_8
+[01:56:16] [main/INFO] [LaunchWrapper]: Loading tweak class name guichaguri.betterfps.tweaker.BetterFpsTweaker
+[01:56:16] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[01:56:16] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[01:56:16] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[01:56:16] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[01:56:18] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[01:56:18] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[01:56:18] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[01:56:18] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.launch.MixinTweaker
+[01:56:18] [main/INFO] [mixin]: Initialised Mixin FML Remapper Adapter with net.minecraftforge.fml.common.asm.transformers.deobf.FMLDeobfuscatingRemapper@baf1bb3
+[01:56:18] [main/INFO] [LaunchWrapper]: Calling tweak class guichaguri.betterfps.tweaker.BetterFpsTweaker
+[01:56:18] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[01:56:18] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[01:56:18] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[01:56:18] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[01:56:18] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[01:56:18] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[01:56:18] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.mixin.EnvironmentStateTweaker
+[01:56:18] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[01:56:18] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.mixin.EnvironmentStateTweaker
+[01:56:19] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:101]: Added INTERFACE: pl/asie/foamfix/coremod/patches/IFoamFixWorldRemovable
+[01:56:19] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:141]: Added METHOD: net.minecraft.world.World.foamfix_removeUnloadedEntities
+[01:56:19] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.patches.WorldServerRemovalPatch:apply:57]: Patched updateEntities in net/minecraft/world/WorldServer func_72939_s
+[01:56:19] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[01:56:19] [main/INFO] [BetterFps]: Patching net.minecraft.block.Block... (aow)
+[01:56:20] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:114]: Spliced in METHOD: net.minecraft.block.state.BlockStateContainer.createState
+[01:56:20] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:165]: Added FIELD: net.minecraft.block.state.BlockStateContainer.foamfix_mapper
+[01:56:20] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:114]: Spliced in METHOD: net.minecraft.block.properties.PropertyEnum.equals
+[01:56:20] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:114]: Spliced in METHOD: net.minecraft.block.properties.PropertyEnum.hashCode
+[01:56:20] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:165]: Added FIELD: net.minecraft.block.properties.PropertyEnum.foamfix_hashCode
+[01:56:20] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:165]: Added FIELD: net.minecraft.block.properties.PropertyEnum.foamfix_hashCode_calced
+[01:56:20] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:114]: Spliced in METHOD: net.minecraft.block.properties.PropertyInteger.hashCode
+[01:56:20] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:165]: Added FIELD: net.minecraft.block.properties.PropertyInteger.foamfix_hashCode
+[01:56:20] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:165]: Added FIELD: net.minecraft.block.properties.PropertyInteger.foamfix_hashCode_calced
+[01:56:20] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:114]: Spliced in METHOD: net.minecraft.block.properties.PropertyBool.equals
+[01:56:20] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:114]: Spliced in METHOD: net.minecraft.block.properties.PropertyBool.hashCode
+[01:56:20] [main/INFO] [BetterFps]: Patching math utils with "RIVENS_HALF" algorithm
+[01:56:20] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:114]: Spliced in METHOD: net.minecraft.tileentity.TileEntity.func_190559_a
+[01:56:20] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:114]: Spliced in METHOD: net.minecraft.block.BlockBed.func_189540_a
+[01:56:20] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.patches.GhostBusterBlockStateAccessPatch$FFMethodVisitor:visitMethodInsn:93]: Added ghost buster patch (getBlockState call wrapped) in net/minecraft/block/BlockFarmland func_176530_e (net/minecraft/world/World func_180495_p (Lnet/minecraft/util/math/BlockPos;)Lnet/minecraft/block/state/IBlockState;)
+[01:56:20] [main/INFO] [BetterFps]: Patching net.minecraft.tileentity.TileEntityBeacon... (avh)
+[01:56:20] [main/INFO] [BetterFps]: Patching net.minecraft.block.BlockHopper... (arl)
+[01:56:20] [main/INFO] [STDOUT]: [pl.asie.patchy.helpers.ConstructorReplacingTransformer$FFMethodVisitor:visitTypeInsn:73]: Replaced NEW for net/minecraft/tileentity/TileEntityHopper to pl/asie/foamfix/common/TileEntityFasterHopper
+[01:56:20] [main/INFO] [STDOUT]: [pl.asie.patchy.helpers.ConstructorReplacingTransformer$FFMethodVisitor:visitMethodInsn:85]: Replaced INVOKESPECIAL for net/minecraft/tileentity/TileEntityHopper to pl/asie/foamfix/common/TileEntityFasterHopper
+[01:56:20] [main/INFO] [BetterFps]: Patching net.minecraft.tileentity.TileEntityHopper... (avw)
+[01:56:21] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:101]: Added INTERFACE: pl/asie/foamfix/coremod/patches/IFoamFixWorldRemovable
+[01:56:21] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:141]: Added METHOD: net.minecraft.world.World.foamfix_removeUnloadedEntities
+[01:56:21] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:101]: Added INTERFACE: pl/asie/foamfix/api/IFoamFixMobSpawnerLogic
+[01:56:21] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:114]: Spliced in METHOD: net.minecraft.tileentity.MobSpawnerBaseLogic.func_98279_f
+[01:56:21] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:165]: Added FIELD: net.minecraft.tileentity.MobSpawnerBaseLogic.foamfix_activatedCache
+[01:56:21] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:165]: Added FIELD: net.minecraft.tileentity.MobSpawnerBaseLogic.foamfix_activatedCachePESize
+[01:56:21] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:165]: Added FIELD: net.minecraft.tileentity.MobSpawnerBaseLogic.foamfix_activatedCacheTime
+[01:56:21] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:165]: Added FIELD: net.minecraft.tileentity.MobSpawnerBaseLogic.foamfix_forcedCache
+[01:56:21] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:165]: Added FIELD: net.minecraft.tileentity.MobSpawnerBaseLogic.foamfix_forcedCacheTime
+[01:56:22] [main/INFO] [BetterFps]: Patching net.minecraft.server.dedicated.DedicatedServer... (nz)
+[01:56:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
+[01:56:22] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2860 Initialized
+[01:56:22] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[01:56:22] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
+[01:56:22] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
+[01:56:23] [Server thread/INFO] [FML]: Searching /workspaces/mine-2.0/servidor_minecraft/./mods for mods
+[01:56:23] [Server thread/WARN] [FML]: Mod securitycraft is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version v1.9.12
+[01:56:23] [Server thread/INFO] [FML]: Disabling mod backtools it is client side only.
+[01:56:23] [Server thread/WARN] [FML]: Mod betterbuilderswands is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 0.13.2
+[01:56:23] [Server thread/WARN] [FML]: Mod ironchest is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.12.2-7.0.67.844
+[01:56:24] [Server thread/INFO] [FML]: Disabling mod neat it is client side only.
+[01:56:24] [Server thread/WARN] [FML]: Mod waystones is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 4.1.0
+[01:56:24] [Server thread/INFO] [FML]: Forge Mod Loader has identified 54 mods to load
+[01:56:24] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
+[01:56:24] [Server thread/WARN] [FML]: Missing English translation for bettercaves: assets/bettercaves/lang/en_us.lang
+[01:56:24] [Server thread/WARN] [FML]: Missing English translation for cofhcore: assets/cofhcore/lang/en_us.lang
+[01:56:24] [Server thread/WARN] [FML]: Missing English translation for foamfix: assets/foamfix/lang/en_us.lang
+[01:56:24] [Server thread/WARN] [FML]: Missing English translation for geographicraft: assets/geographicraft/lang/en_us.lang
+[01:56:24] [Server thread/WARN] [FML]: Missing English translation for gottschcore: assets/gottschcore/lang/en_us.lang
+[01:56:24] [Server thread/WARN] [FML]: Missing English translation for hatstand: assets/hatstand/lang/en_us.lang
+[01:56:24] [Server thread/WARN] [FML]: Missing English translation for ido: assets/ido/lang/en_us.lang
+[01:56:24] [Server thread/WARN] [FML]: Missing English translation for login_shield: assets/login_shield/lang/en_us.lang
+[01:56:24] [Server thread/WARN] [FML]: Missing English translation for mantle: assets/mantle/lang/en_us.lang
+[01:56:24] [Server thread/WARN] [FML]: Missing English translation for redstoneflux: assets/redstoneflux/lang/en_us.lang
+[01:56:24] [Server thread/WARN] [FML]: Missing English translation for roguelike: assets/roguelike/lang/en_us.lang
+[01:56:24] [Server thread/WARN] [FML]: Missing English translation for stg: assets/stg/lang/en_us.lang
+[01:56:24] [Server thread/INFO] [FML]: FML has found a non-mod file BackTools-1.12.2-7.0.1.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[01:56:24] [Server thread/INFO] [FML]: FML has found a non-mod file Clearlag.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[01:56:24] [Server thread/INFO] [FML]: FML has found a non-mod file kotlinforforge-5.6.0-all.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[01:56:24] [Server thread/INFO] [FML]: FML has found a non-mod file Neat 1.4-17.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[01:56:25] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, creativecoredummy, foamfixcore, obfuscate, securitycraft, baubles, betterbuilderswands, bettercaves, biomesoplenty, chesttransporter, cofhcore, cofhworld, creativecore, dungeontactics, dynamictrees, ebwizardry, fenceoverhaul, foamfix, futureminecraf, geographicraft, gottschcore, hats, hatstand, waila, ichunutil, ido, inventorytweaks, ironchest, ironfurnaces, jei, journeymap, login_shield, mantle, netherendingores, openglider, harvestcraft, persistentbits, playerrevive, redstoneflux, roguelike, spartanshields, stg, tconstruct, thaumcraft, tombstone, torchmaster, travelersbackpack, treasure2, waystones, rtg, llibrary] at CLIENT
+[01:56:25] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, creativecoredummy, foamfixcore, obfuscate, securitycraft, baubles, betterbuilderswands, bettercaves, biomesoplenty, chesttransporter, cofhcore, cofhworld, creativecore, dungeontactics, dynamictrees, ebwizardry, fenceoverhaul, foamfix, futureminecraf, geographicraft, gottschcore, hats, hatstand, waila, ichunutil, ido, inventorytweaks, ironchest, ironfurnaces, jei, journeymap, login_shield, mantle, netherendingores, openglider, harvestcraft, persistentbits, playerrevive, redstoneflux, roguelike, spartanshields, stg, tconstruct, thaumcraft, tombstone, torchmaster, travelersbackpack, treasure2, waystones, rtg, llibrary] at SERVER
+[01:56:25] [Server thread/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:114]: Spliced in METHOD: net.minecraft.network.PacketBuffer.func_180714_a
+[01:56:25] [Server thread/ERROR] [FML]: The mod redstoneflux is expecting signature 8a6abf2cb9e141b866580d369ba6548732eff25f for source RedstoneFlux-1.12-2.1.1.1-universal.jar, however there is no signature matching that description
+[01:56:25] [Server thread/ERROR] [FML]: The mod cofhworld is expecting signature 8a6abf2cb9e141b866580d369ba6548732eff25f for source CoFHWorld-1.12.2-1.4.0.1-universal.jar, however there is no signature matching that description
+[01:56:25] [Server thread/INFO] [STDOUT]: [pl.asie.patchy.helpers.ConstructorReplacingTransformer$FFMethodVisitor:visitTypeInsn:73]: Replaced NEW for net/minecraft/util/ClassInheritanceMultiMap to pl/asie/foamfix/coremod/common/FoamyClassInheritanceMultiMap
+[01:56:25] [Server thread/INFO] [STDOUT]: [pl.asie.patchy.helpers.ConstructorReplacingTransformer$FFMethodVisitor:visitMethodInsn:85]: Replaced INVOKESPECIAL for net/minecraft/util/ClassInheritanceMultiMap to pl/asie/foamfix/coremod/common/FoamyClassInheritanceMultiMap
+[01:56:26] [Server thread/INFO] [STDOUT]: [pl.asie.foamfix.coremod.patches.GhostBusterDefinitionPatch:apply:136]: Added ghost buster patch (radius = 4) in net/minecraftforge/fluids/BlockFluidClassic func_180650_b
+[01:56:27] [Server thread/INFO] [Pulsar-tconstruct]: Skipping Pulse chiselIntegration; missing dependency: chisel
+[01:56:27] [Server thread/INFO] [Pulsar-tconstruct]: Skipping Pulse chiselsandbitsIntegration; missing dependency: chiselsandbits
+[01:56:27] [Server thread/INFO] [Pulsar-tconstruct]: Skipping Pulse craftingtweaksIntegration; missing dependency: craftingtweaks
+[01:56:27] [Server thread/INFO] [Pulsar-tconstruct]: Skipping Pulse theoneprobeIntegration; missing dependency: theoneprobe
+[01:56:27] [Server thread/INFO] [Pulsar-tconstruct]: Skipping Pulse quarkIntegration; missing dependency: quark
+[01:56:27] [Server thread/INFO] [tconstruct]: Preparing to take over the world
+[01:56:28] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
+[01:56:28] [Server thread/INFO] [FML]: Found 2082 ObjectHolder annotations
+[01:56:28] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
+[01:56:28] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
+[01:56:28] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
+[01:56:28] [Forge Version Check/INFO] [forge.VersionCheck]: [llibrary] Starting version check at https://gist.githubusercontent.com/Gegy/a6639456aeb8edd92cbf7cbfcf9d65d9/raw/llibrary_updates.json
+[01:56:28] [Server thread/INFO] [Obfuscate]: Successfully injected SyncedPlayerData capability
+[01:56:28] [Forge Version Check/INFO] [forge.VersionCheck]: [llibrary] Found status: UP_TO_DATE Target: null
+[01:56:28] [Forge Version Check/INFO] [forge.VersionCheck]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
+[01:56:28] [Forge Version Check/INFO] [forge.VersionCheck]: [travelersbackpack] Found status: AHEAD Target: null
+[01:56:28] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[01:56:29] [Server thread/INFO] [betterbuilderswands]: Access transform success createStackedBlock (func_180643_i).
+[01:56:29] [Server thread/INFO] [STDOUT]: [pl.asie.foamfix.coremod.patches.GhostBusterDefinitionPatch:apply:136]: Added ghost buster patch (radius = 3) in biomesoplenty/common/block/BlockBOPGrass spreadGrass
+[01:56:29] [Server thread/INFO] [STDOUT]: [pl.asie.foamfix.coremod.patches.GhostBusterDefinitionPatch:apply:136]: Added ghost buster patch (radius = 1) in net/minecraftforge/fluids/BlockFluidFinite func_180650_b
+[01:56:29] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: AHEAD Target: null
+[01:56:29] [Forge Version Check/INFO] [forge.VersionCheck]: [ebwizardry] Starting version check at https://github.com/Electroblob77/Wizardry/blob/1.12.2/.forge/update.json
+[01:56:29] [Server thread/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:114]: Spliced in METHOD: net.minecraftforge.common.property.ExtendedBlockState.createState
+[01:56:29] [Server thread/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:165]: Added FIELD: net.minecraftforge.common.property.ExtendedBlockState.foamfix_mapper
+[01:56:29] [Forge Version Check/INFO] [forge.VersionCheck]: [treasure2] Starting version check at https://raw.githubusercontent.com/gottsch/gottsch-minecraft-Treasure/master/update.json
+[01:56:29] [Forge Version Check/INFO] [forge.VersionCheck]: [treasure2] Found status: BETA Target: null
+[01:56:29] [Forge Version Check/INFO] [forge.VersionCheck]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
+[01:56:30] [Forge Version Check/INFO] [forge.VersionCheck]: [securitycraft] Found status: UP_TO_DATE Target: null
+[01:56:30] [Forge Version Check/INFO] [forge.VersionCheck]: [cofhworld] Starting version check at https://raw.github.com/cofh/version/master/cofhworld_update.json
+[01:56:30] [Forge Version Check/INFO] [forge.VersionCheck]: [cofhworld] Found status: UP_TO_DATE Target: null
+[01:56:30] [Forge Version Check/INFO] [forge.VersionCheck]: [cofhcore] Starting version check at https://raw.github.com/cofh/version/master/cofhcore_update.json
+[01:56:30] [Forge Version Check/INFO] [forge.VersionCheck]: [cofhcore] Found status: UP_TO_DATE Target: null
+[01:56:30] [Forge Version Check/INFO] [forge.VersionCheck]: [dynamictrees] Starting version check at https://github.com/DynamicTreesTeam/DynamicTreesVersionInfo/blob/master/DynamicTrees.json?raw=true
+[01:56:30] [Forge Version Check/INFO] [forge.VersionCheck]: [dynamictrees] Found status: UP_TO_DATE Target: null
+[01:56:30] [Forge Version Check/INFO] [forge.VersionCheck]: [gottschcore] Starting version check at https://raw.githubusercontent.com/gottsch/gottsch-minecraft-GottschCore/1.12.2-master/update.json
+[01:56:30] [Forge Version Check/INFO] [forge.VersionCheck]: [gottschcore] Found status: AHEAD Target: null
+[01:56:30] [Forge Version Check/INFO] [forge.VersionCheck]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[01:56:30] [Forge Version Check/INFO] [forge.VersionCheck]: [tombstone] Found status: UP_TO_DATE Target: null
+[01:56:30] [Server thread/INFO] [CoFH World]: Registering default Feature Templates...
+[01:56:30] [Server thread/INFO] [CoFH World]: Registering default World Generators...
+[01:56:30] [Server thread/INFO] [CoFH World]: Verifying or creating base world generation directory...
+[01:56:30] [Server thread/INFO] [CoFH World]: Created standard generation json.
+[01:56:30] [Server thread/INFO] [CoFH World]: Complete.
+[01:56:30] [Server thread/INFO] [STDOUT]: [com.ferreusveritas.dynamictrees.ModConfigs:preInit:112]: DynamicTrees BlackListed DimValue: 7
+[01:56:30] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `species_tile_entity`, expected `dynamictrees`. This could be a intended override, but in most cases indicates a broken mod.
+[01:56:30] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `bonsai_tile_entity`, expected `dynamictrees`. This could be a intended override, but in most cases indicates a broken mod.
+[01:56:30] [Server thread/INFO] [ebwizardry]: Setting up main config
+[01:56:31] [Server thread/INFO] [foamfix]: Removing LaunchWrapper package manifest map...
+[01:56:31] [Server thread/INFO] [STDOUT]: [pl.asie.foamfix.coremod.patches.WorldServerRemovalPatch:apply:57]: Patched updateEntities in net/minecraft/world/WorldServer func_72939_s
+[01:56:31] [Server thread/INFO] [BetterFps]: Patching net.minecraft.block.Block... (aow)
+[01:56:31] [Hats Mod Mob Support Thread/INFO] [STDERR]: [me.ichun.mods.hats.common.thread.ThreadGetModMobSupport:run:90]: java.io.FileNotFoundException: https://raw.githubusercontent.com/iChun/Hats/master/src/main/resources/assets/hats/mod/HatModMobSupport.json
+[01:56:31] [Hats Mod Mob Support Thread/INFO] [STDERR]: [me.ichun.mods.hats.common.thread.ThreadGetModMobSupport:run:90]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1913)
+[01:56:31] [Hats Mod Mob Support Thread/INFO] [STDERR]: [me.ichun.mods.hats.common.thread.ThreadGetModMobSupport:run:90]: 	at sun.net.www.protocol.http.HttpURLConnection.access$200(HttpURLConnection.java:92)
+[01:56:31] [Hats Mod Mob Support Thread/INFO] [STDERR]: [me.ichun.mods.hats.common.thread.ThreadGetModMobSupport:run:90]: 	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1507)
+[01:56:31] [Hats Mod Mob Support Thread/INFO] [STDERR]: [me.ichun.mods.hats.common.thread.ThreadGetModMobSupport:run:90]: 	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1505)
+[01:56:31] [Hats Mod Mob Support Thread/INFO] [STDERR]: [me.ichun.mods.hats.common.thread.ThreadGetModMobSupport:run:90]: 	at java.security.AccessController.doPrivileged(Native Method)
+[01:56:31] [Hats Mod Mob Support Thread/INFO] [STDERR]: [me.ichun.mods.hats.common.thread.ThreadGetModMobSupport:run:90]: 	at java.security.AccessController.doPrivilegedWithCombiner(AccessController.java:784)
+[01:56:31] [Hats Mod Mob Support Thread/INFO] [STDERR]: [me.ichun.mods.hats.common.thread.ThreadGetModMobSupport:run:90]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1504)
+[01:56:31] [Hats Mod Mob Support Thread/INFO] [STDERR]: [me.ichun.mods.hats.common.thread.ThreadGetModMobSupport:run:90]: 	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:268)
+[01:56:31] [Hats Mod Mob Support Thread/INFO] [STDERR]: [me.ichun.mods.hats.common.thread.ThreadGetModMobSupport:run:90]: 	at java.net.URL.openStream(URL.java:1093)
+[01:56:31] [Hats Mod Mob Support Thread/INFO] [STDERR]: [me.ichun.mods.hats.common.thread.ThreadGetModMobSupport:run:90]: 	at me.ichun.mods.hats.common.thread.ThreadGetModMobSupport.run(ThreadGetModMobSupport.java:41)
+[01:56:32] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `apple`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[01:56:32] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `wheat`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[01:56:32] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `potato`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[01:56:32] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `carrot`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[01:56:32] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `beetroot`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[01:56:32] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `melon`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[01:56:32] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `beef`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[01:56:32] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cooked_beef`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[01:56:32] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `chicken`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[01:56:32] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cooked_chicken`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[01:56:32] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `porkchop`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[01:56:32] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cooked_porkchop`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[01:56:32] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `rabbit`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[01:56:32] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cooked_rabbit`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[01:56:32] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `mutton`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[01:56:32] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cooked_mutton`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[01:56:32] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cod`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[01:56:32] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cooked_cod`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[01:56:32] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `salmon`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[01:56:32] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cooked_salmon`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[01:56:32] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `clownfish`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[01:56:32] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `pufferfish`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[01:56:32] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `mushroom_stew`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[01:56:32] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `bread`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[01:56:32] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cookie`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[01:56:32] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `baked_potato`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[01:56:32] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `pumpkin_pie`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[01:56:32] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `rabbit_stew`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[01:56:32] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `beetroot_soup`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[01:56:32] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `persistentbitschunk_loader`, expected `persistentbits`. This could be a intended override, but in most cases indicates a broken mod.
+[01:56:32] [Server thread/INFO] [Spartan Shields]: Starting up Spartan Shields!
+[01:56:32] [Server thread/INFO] [travelersbackpack]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectWater as a FluidEffect for water with the ID 0
+[01:56:32] [Server thread/INFO] [travelersbackpack]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectLava as a FluidEffect for lava with the ID 1
+[01:56:32] [Server thread/INFO] [travelersbackpack]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectMilk as a FluidEffect for milk with the ID 2
+[01:56:32] [Server thread/INFO] [travelersbackpack]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectPotion as a FluidEffect for potion with the ID 3
+[01:56:32] [Server thread/INFO] [travelersbackpack]: Starting the Integration Handler.
+[01:56:32] [Server thread/INFO] [travelersbackpack]: Didn't find any possible mod integration(s)!
+[01:56:32] [Hats Download/Read Hats Thread/INFO] [Hats]: [7.1.1] Loaded 198 hats. 68 are contributor hats.
+[01:56:33] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.iron`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[01:56:33] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.gold`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[01:56:33] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.diamond`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[01:56:33] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.copper`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[01:56:33] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.silver`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[01:56:33] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.crystal`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[01:56:33] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.obsidian`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[01:56:33] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.dirtchest9000`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[01:56:33] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.iron`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[01:56:33] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.gold`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[01:56:33] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.diamond`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[01:56:33] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.copper`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[01:56:33] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.silver`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[01:56:33] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.crystal`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[01:56:33] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.obsidian`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[01:56:33] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.table`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[01:56:33] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.craftingstation`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[01:56:33] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.stenciltable`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[01:56:33] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.partbuilder`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[01:56:33] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.patternchest`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[01:56:33] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.partchest`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[01:56:33] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.toolstation`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[01:56:33] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.toolforge`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[01:56:33] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.smeltery_controller`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[01:56:33] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.smeltery_component`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[01:56:33] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.tank`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[01:56:33] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.faucet`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[01:56:33] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.channel`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[01:56:33] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.casting_table`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[01:56:33] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.casting_basin`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[01:56:33] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.smeltery_drain`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[01:56:33] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.seared_furnace`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[01:56:33] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.tinker_tank`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[01:56:33] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.item_rack`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[01:56:33] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.drying_rack`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[01:56:33] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.wooden_hopper`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[01:56:33] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.slime_channel`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[01:56:33] [Server thread/INFO] [Netherending Ores]: Registered Blocks
+[01:56:34] [Server thread/INFO] [FML]: Applying holder lookups
+[01:56:34] [Server thread/INFO] [FML]: Holder lookups applied
+[01:56:34] [Server thread/INFO] [Netherending Ores]: Registered ItemBlocks
+[01:56:34] [Server thread/INFO] [Spartan Shields]: Items Registered!
+[01:56:34] [Server thread/INFO] [FML]: Applying holder lookups
+[01:56:34] [Server thread/INFO] [FML]: Holder lookups applied
+[01:56:34] [Server thread/INFO] [Netherending Ores]: Registered Ore Dictionary Entries
+[01:56:34] [Server thread/WARN] [FML]: No types have been added to Biome futureminecraf:frozenocean, types have been assigned on a best-effort guess: [PLAINS]
+[01:56:34] [Server thread/INFO] [FML]: Applying holder lookups
+[01:56:34] [Server thread/INFO] [FML]: Holder lookups applied
+[01:56:34] [Server thread/INFO] [FML]: Applying holder lookups
+[01:56:34] [Server thread/INFO] [FML]: Holder lookups applied
+[01:56:34] [Server thread/INFO] [FML]: Injecting itemstacks
+[01:56:34] [Server thread/INFO] [FML]: Itemstack injection complete
+[01:56:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
+[01:56:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
+[01:56:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
+[01:56:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on *:25565
+[01:56:34] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using epoll channel type
+[01:56:35] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01:56:35] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: The server will make no attempt to authenticate usernames. Beware.
+[01:56:35] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01:56:35] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: To change this, set "online-mode" to "true" in the server.properties file.
+[01:56:35] [Server thread/ERROR] [FML]: Parsing error loading recipe futureminecraf:wetsponge
+com.google.gson.JsonSyntaxException: Unknown item 'futureminecraf:oldwetsponge'
+	at net.minecraftforge.common.crafting.CraftingHelper.getItemStackBasic(CraftingHelper.java:262) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$16(CraftingHelper.java:544) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:204) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$15(CraftingHelper.java:531) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getRecipe(CraftingHelper.java:416) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$loadRecipes$22(CraftingHelper.java:723) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.findFiles(CraftingHelper.java:833) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:688) ~[CraftingHelper.class:?]
+	at java.util.ArrayList.forEach(ArrayList.java:1259) [?:1.8.0_432]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:633) [CraftingHelper.class:?]
+	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:747) [Loader.class:?]
+	at net.minecraftforge.fml.server.FMLServerHandler.finishServerLoading(FMLServerHandler.java:108) [FMLServerHandler.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStarted(FMLCommonHandler.java:338) [FMLCommonHandler.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+[01:56:35] [Server thread/ERROR] [FML]: Parsing error loading recipe futureminecraf:seed
+com.google.gson.JsonSyntaxException: Unknown item 'futureminecraf:unknown_element'
+	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:214) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$15(CraftingHelper.java:538) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getRecipe(CraftingHelper.java:416) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$loadRecipes$22(CraftingHelper.java:723) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.findFiles(CraftingHelper.java:833) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:688) ~[CraftingHelper.class:?]
+	at java.util.ArrayList.forEach(ArrayList.java:1259) [?:1.8.0_432]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:633) [CraftingHelper.class:?]
+	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:747) [Loader.class:?]
+	at net.minecraftforge.fml.server.FMLServerHandler.finishServerLoading(FMLServerHandler.java:108) [FMLServerHandler.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStarted(FMLCommonHandler.java:338) [FMLCommonHandler.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+[01:56:35] [Server thread/ERROR] [FML]: Parsing error loading recipe futureminecraf:reddyerecipe
+com.google.gson.JsonSyntaxException: Unknown item 'futureminecraf:rose'
+	at net.minecraftforge.common.crafting.CraftingHelper.getItemStackBasic(CraftingHelper.java:262) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$16(CraftingHelper.java:544) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:204) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$15(CraftingHelper.java:531) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getRecipe(CraftingHelper.java:416) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$loadRecipes$22(CraftingHelper.java:723) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.findFiles(CraftingHelper.java:833) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:688) ~[CraftingHelper.class:?]
+	at java.util.ArrayList.forEach(ArrayList.java:1259) [?:1.8.0_432]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:633) [CraftingHelper.class:?]
+	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:747) [Loader.class:?]
+	at net.minecraftforge.fml.server.FMLServerHandler.finishServerLoading(FMLServerHandler.java:108) [FMLServerHandler.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStarted(FMLCommonHandler.java:338) [FMLCommonHandler.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+[01:56:35] [Server thread/ERROR] [FML]: Parsing error loading recipe futureminecraf:polishedgranitestairrecipe
+com.google.gson.JsonParseException: Missing data for item 'futureminecraf:polishedgraniteslab'
+	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:217) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$14(CraftingHelper.java:523) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getRecipe(CraftingHelper.java:416) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$loadRecipes$22(CraftingHelper.java:723) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.findFiles(CraftingHelper.java:833) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:688) ~[CraftingHelper.class:?]
+	at java.util.ArrayList.forEach(ArrayList.java:1259) [?:1.8.0_432]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:633) [CraftingHelper.class:?]
+	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:747) [Loader.class:?]
+	at net.minecraftforge.fml.server.FMLServerHandler.finishServerLoading(FMLServerHandler.java:108) [FMLServerHandler.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStarted(FMLCommonHandler.java:338) [FMLCommonHandler.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+[01:56:35] [Server thread/ERROR] [FML]: Parsing error loading recipe futureminecraf:oldcobblestoneslabrecipe
+com.google.gson.JsonSyntaxException: Unknown item 'futureminecraf:oldcobblestone'
+	at net.minecraftforge.common.crafting.CraftingHelper.getItemStackBasic(CraftingHelper.java:262) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$16(CraftingHelper.java:544) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:204) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$14(CraftingHelper.java:481) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getRecipe(CraftingHelper.java:416) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$loadRecipes$22(CraftingHelper.java:723) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.findFiles(CraftingHelper.java:833) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:688) ~[CraftingHelper.class:?]
+	at java.util.ArrayList.forEach(ArrayList.java:1259) [?:1.8.0_432]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:633) [CraftingHelper.class:?]
+	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:747) [Loader.class:?]
+	at net.minecraftforge.fml.server.FMLServerHandler.finishServerLoading(FMLServerHandler.java:108) [FMLServerHandler.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStarted(FMLCommonHandler.java:338) [FMLCommonHandler.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+[01:56:35] [Server thread/ERROR] [FML]: Parsing error loading recipe futureminecraf:newspongerecipe
+com.google.gson.JsonSyntaxException: Unknown item 'futureminecraf:oldsponge'
+	at net.minecraftforge.common.crafting.CraftingHelper.getItemStackBasic(CraftingHelper.java:262) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$16(CraftingHelper.java:544) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:204) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$15(CraftingHelper.java:531) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getRecipe(CraftingHelper.java:416) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$loadRecipes$22(CraftingHelper.java:723) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.findFiles(CraftingHelper.java:833) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:688) ~[CraftingHelper.class:?]
+	at java.util.ArrayList.forEach(ArrayList.java:1259) [?:1.8.0_432]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:633) [CraftingHelper.class:?]
+	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:747) [Loader.class:?]
+	at net.minecraftforge.fml.server.FMLServerHandler.finishServerLoading(FMLServerHandler.java:108) [FMLServerHandler.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStarted(FMLCommonHandler.java:338) [FMLCommonHandler.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+[01:56:35] [Server thread/ERROR] [FML]: Parsing error loading recipe futureminecraf:ironblockbackrecipe
+com.google.gson.JsonSyntaxException: Unknown item 'futureminecraf:oldironblock'
+	at net.minecraftforge.common.crafting.CraftingHelper.getItemStackBasic(CraftingHelper.java:262) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$16(CraftingHelper.java:544) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:204) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$15(CraftingHelper.java:531) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getRecipe(CraftingHelper.java:416) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$loadRecipes$22(CraftingHelper.java:723) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.findFiles(CraftingHelper.java:833) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:688) ~[CraftingHelper.class:?]
+	at java.util.ArrayList.forEach(ArrayList.java:1259) [?:1.8.0_432]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:633) [CraftingHelper.class:?]
+	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:747) [Loader.class:?]
+	at net.minecraftforge.fml.server.FMLServerHandler.finishServerLoading(FMLServerHandler.java:108) [FMLServerHandler.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStarted(FMLCommonHandler.java:338) [FMLCommonHandler.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+[01:56:35] [Server thread/ERROR] [FML]: Parsing error loading recipe futureminecraf:grindstonerecipe
+com.google.gson.JsonParseException: Missing data for item 'futureminecraf:stoneslab'
+	at net.minecraftforge.common.crafting.CraftingHelper.getItemStackBasic(CraftingHelper.java:265) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$16(CraftingHelper.java:544) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:204) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$14(CraftingHelper.java:481) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getRecipe(CraftingHelper.java:416) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$loadRecipes$22(CraftingHelper.java:723) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.findFiles(CraftingHelper.java:833) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:688) ~[CraftingHelper.class:?]
+	at java.util.ArrayList.forEach(ArrayList.java:1259) [?:1.8.0_432]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:633) [CraftingHelper.class:?]
+	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:747) [Loader.class:?]
+	at net.minecraftforge.fml.server.FMLServerHandler.finishServerLoading(FMLServerHandler.java:108) [FMLServerHandler.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStarted(FMLCommonHandler.java:338) [FMLCommonHandler.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+[01:56:35] [Server thread/ERROR] [FML]: Parsing error loading recipe futureminecraf:grassblockrecipe
+com.google.gson.JsonSyntaxException: Unknown item 'futureminecraf:oldgrassblock'
+	at net.minecraftforge.common.crafting.CraftingHelper.getItemStackBasic(CraftingHelper.java:262) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$16(CraftingHelper.java:544) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:204) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$15(CraftingHelper.java:531) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getRecipe(CraftingHelper.java:416) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$loadRecipes$22(CraftingHelper.java:723) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.findFiles(CraftingHelper.java:833) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:688) ~[CraftingHelper.class:?]
+	at java.util.ArrayList.forEach(ArrayList.java:1259) [?:1.8.0_432]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:633) [CraftingHelper.class:?]
+	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:747) [Loader.class:?]
+	at net.minecraftforge.fml.server.FMLServerHandler.finishServerLoading(FMLServerHandler.java:108) [FMLServerHandler.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStarted(FMLCommonHandler.java:338) [FMLCommonHandler.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+[01:56:35] [Server thread/ERROR] [FML]: Parsing error loading recipe futureminecraf:chiseledpolishedblackstonerecipe
+com.google.gson.JsonParseException: Missing data for item 'futureminecraf:polishedblackstoneslab'
+	at net.minecraftforge.common.crafting.CraftingHelper.getItemStackBasic(CraftingHelper.java:265) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$16(CraftingHelper.java:544) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:204) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$15(CraftingHelper.java:531) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getRecipe(CraftingHelper.java:416) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$loadRecipes$22(CraftingHelper.java:723) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.findFiles(CraftingHelper.java:833) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:688) ~[CraftingHelper.class:?]
+	at java.util.ArrayList.forEach(ArrayList.java:1259) [?:1.8.0_432]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:633) [CraftingHelper.class:?]
+	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:747) [Loader.class:?]
+	at net.minecraftforge.fml.server.FMLServerHandler.finishServerLoading(FMLServerHandler.java:108) [FMLServerHandler.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStarted(FMLCommonHandler.java:338) [FMLCommonHandler.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+[01:56:35] [Server thread/ERROR] [FML]: Parsing error loading recipe futureminecraf:brickslabrecipe
+com.google.gson.JsonSyntaxException: Unknown item 'futureminecraf:oldbrick'
+	at net.minecraftforge.common.crafting.CraftingHelper.getItemStackBasic(CraftingHelper.java:262) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$16(CraftingHelper.java:544) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:204) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$14(CraftingHelper.java:481) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getRecipe(CraftingHelper.java:416) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$loadRecipes$22(CraftingHelper.java:723) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.findFiles(CraftingHelper.java:833) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:688) ~[CraftingHelper.class:?]
+	at java.util.ArrayList.forEach(ArrayList.java:1259) [?:1.8.0_432]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:633) [CraftingHelper.class:?]
+	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:747) [Loader.class:?]
+	at net.minecraftforge.fml.server.FMLServerHandler.finishServerLoading(FMLServerHandler.java:108) [FMLServerHandler.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStarted(FMLCommonHandler.java:338) [FMLCommonHandler.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+[01:56:35] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `slime`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[01:56:35] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `bread`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[01:56:35] [Server thread/WARN] [FML]: Unable to find recipe for minecraft:rabbit_stew
+[01:56:35] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `beetroot_soup`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[01:56:35] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `mushroom_stew`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[01:56:35] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cookie`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[01:56:35] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `pumpkin_pie`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[01:56:35] [Server thread/WARN] [FML]: Unable to find recipe for minecraft:baked_potato
+[01:56:35] [Server thread/INFO] [THAUMCRAFT]: Checking for mod & oredict compatibilities
+[01:56:35] [Server thread/INFO] [THAUMCRAFT]: Adding entities to MFR safari net blacklist.
+[01:56:35] [Server thread/INFO] [Spartan Shields]: Recipes added!
+[01:56:35] [Server thread/INFO] [DungeonTactics]: Overriding recipes with dummy recipes, please ignore the following "Dangerous alternative prefix" warnings.
+[01:56:35] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `mushroom_stew`, expected `dungeontactics`. This could be a intended override, but in most cases indicates a broken mod.
+[01:56:35] [Server thread/INFO] [DungeonTactics]: Overriding recipes with dummy recipes, please ignore the following "Dangerous alternative prefix" warnings.
+[01:56:35] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `bread`, expected `dungeontactics`. This could be a intended override, but in most cases indicates a broken mod.
+[01:56:35] [Server thread/INFO] [DungeonTactics]: Overriding recipes with dummy recipes, please ignore the following "Dangerous alternative prefix" warnings.
+[01:56:35] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `flint_and_steel`, expected `dungeontactics`. This could be a intended override, but in most cases indicates a broken mod.
+[01:56:35] [Server thread/INFO] [FML]: Applying holder lookups
+[01:56:35] [Server thread/INFO] [FML]: Holder lookups applied
+[01:56:35] [Server thread/INFO] [ebwizardry]: Setting up spells config for 188 spells
+[01:56:35] [Server thread/INFO] [ebwizardry]: Setting up artefacts config
+[01:56:35] [Server thread/INFO] [ebwizardry]: Setting up resistances config
+[01:56:35] [Server thread/INFO] [ebwizardry]: Loading spell properties from config folder
+[01:56:35] [Server thread/INFO] [ebwizardry]: Loading built-in spell properties for 189 spells in mod ebwizardry
+[01:56:35] [Server thread/INFO] [foamfix]: Deduplicated 273 property sets.
+[01:56:35] [Server thread/INFO] [foamfix]: Weakening LaunchWrapper resource cache...
+[01:56:35] [iChunUtil Online Resource Thread/WARN] [iChunUtil]: Error retrieving mods versions list.
+[01:56:35] [iChunUtil Online Resource Thread/INFO] [STDERR]: [me.ichun.mods.ichunutil.common.thread.ThreadGetResources:run:77]: java.io.FileNotFoundException: https://raw.githubusercontent.com/iChun/iChunUtil/master/src/main/resources/assets/ichunutil/mod/versions.json
+[01:56:35] [iChunUtil Online Resource Thread/INFO] [STDERR]: [me.ichun.mods.ichunutil.common.thread.ThreadGetResources:run:77]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1913)
+[01:56:35] [iChunUtil Online Resource Thread/INFO] [STDERR]: [me.ichun.mods.ichunutil.common.thread.ThreadGetResources:run:77]: 	at sun.net.www.protocol.http.HttpURLConnection.access$200(HttpURLConnection.java:92)
+[01:56:35] [iChunUtil Online Resource Thread/INFO] [STDERR]: [me.ichun.mods.ichunutil.common.thread.ThreadGetResources:run:77]: 	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1507)
+[01:56:35] [iChunUtil Online Resource Thread/INFO] [STDERR]: [me.ichun.mods.ichunutil.common.thread.ThreadGetResources:run:77]: 	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1505)
+[01:56:35] [iChunUtil Online Resource Thread/INFO] [STDERR]: [me.ichun.mods.ichunutil.common.thread.ThreadGetResources:run:77]: 	at java.security.AccessController.doPrivileged(Native Method)
+[01:56:35] [iChunUtil Online Resource Thread/INFO] [STDERR]: [me.ichun.mods.ichunutil.common.thread.ThreadGetResources:run:77]: 	at java.security.AccessController.doPrivilegedWithCombiner(AccessController.java:784)
+[01:56:35] [iChunUtil Online Resource Thread/INFO] [STDERR]: [me.ichun.mods.ichunutil.common.thread.ThreadGetResources:run:77]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1504)
+[01:56:36] [iChunUtil Online Resource Thread/INFO] [STDERR]: [me.ichun.mods.ichunutil.common.thread.ThreadGetResources:run:77]: 	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:268)
+[01:56:36] [iChunUtil Online Resource Thread/INFO] [STDERR]: [me.ichun.mods.ichunutil.common.thread.ThreadGetResources:run:77]: 	at java.net.URL.openStream(URL.java:1093)
+[01:56:36] [iChunUtil Online Resource Thread/INFO] [STDERR]: [me.ichun.mods.ichunutil.common.thread.ThreadGetResources:run:77]: 	at me.ichun.mods.ichunutil.common.thread.ThreadGetResources.run(ThreadGetResources.java:67)
+[01:56:36] [Server thread/INFO] [Netherending Ores]: Registered Vanilla Recipes
+[01:56:36] [Server thread/INFO] [Netherending Ores]: Registered Tinkers' Construct Recipes
+[01:56:36] [Server thread/INFO] [Netherending Ores]: Loaded WAILA/HWYLA Integration
+[01:56:36] [Server thread/INFO] [harvestcraft]: minecraft:ocean;OCEAN;0.5;false;false;false;[OCEAN, WATER]
+[01:56:36] [Server thread/INFO] [harvestcraft]: minecraft:plains;MEDIUM;0.8;false;false;false;[PLAINS]
+[01:56:36] [Server thread/INFO] [harvestcraft]: minecraft:desert;WARM;2.0;false;false;false;[DRY, SANDY, HOT]
+[01:56:36] [Server thread/INFO] [harvestcraft]: minecraft:extreme_hills;MEDIUM;0.2;false;false;false;[MOUNTAIN, HILLS]
+[01:56:36] [Server thread/INFO] [harvestcraft]: minecraft:forest;MEDIUM;0.7;false;false;false;[FOREST]
+[01:56:36] [Server thread/INFO] [harvestcraft]: minecraft:taiga;MEDIUM;0.25;false;false;false;[COLD, CONIFEROUS, FOREST]
+[01:56:36] [Server thread/INFO] [harvestcraft]: minecraft:swampland;MEDIUM;0.8;true;false;false;[WET, SWAMP]
+[01:56:36] [Server thread/INFO] [harvestcraft]: minecraft:river;MEDIUM;0.5;false;false;false;[WATER, RIVER]
+[01:56:36] [Server thread/INFO] [harvestcraft]: minecraft:hell;WARM;2.0;false;false;false;[DRY, NETHER, HOT]
+[01:56:36] [Server thread/INFO] [harvestcraft]: minecraft:sky;MEDIUM;0.5;false;false;false;[COLD, DRY, END]
+[01:56:36] [Server thread/INFO] [harvestcraft]: minecraft:frozen_ocean;OCEAN;0.0;false;false;true;[COLD, OCEAN, WATER, SNOWY]
+[01:56:36] [Server thread/INFO] [harvestcraft]: minecraft:frozen_river;COLD;0.0;false;false;true;[COLD, WATER, RIVER, SNOWY]
+[01:56:36] [Server thread/INFO] [harvestcraft]: minecraft:ice_flats;COLD;0.0;false;false;true;[COLD, WASTELAND, SNOWY]
+[01:56:36] [Server thread/INFO] [harvestcraft]: minecraft:ice_mountains;COLD;0.0;false;false;true;[COLD, MOUNTAIN, SNOWY]
+[01:56:36] [Server thread/INFO] [harvestcraft]: minecraft:mushroom_island;MEDIUM;0.9;true;false;false;[MUSHROOM, RARE]
+[01:56:36] [Server thread/INFO] [harvestcraft]: minecraft:mushroom_island_shore;MEDIUM;0.9;true;false;false;[BEACH, MUSHROOM, RARE]
+[01:56:36] [Server thread/INFO] [harvestcraft]: minecraft:beaches;MEDIUM;0.8;false;false;false;[BEACH]
+[01:56:36] [Server thread/INFO] [harvestcraft]: minecraft:desert_hills;WARM;2.0;false;false;false;[DRY, SANDY, HOT, HILLS]
+[01:56:36] [Server thread/INFO] [harvestcraft]: minecraft:forest_hills;MEDIUM;0.7;false;false;false;[FOREST, HILLS]
+[01:56:36] [Server thread/INFO] [harvestcraft]: minecraft:taiga_hills;MEDIUM;0.25;false;false;false;[COLD, CONIFEROUS, FOREST, HILLS]
+[01:56:36] [Server thread/INFO] [harvestcraft]: minecraft:smaller_extreme_hills;MEDIUM;0.2;false;false;false;[MOUNTAIN]
+[01:56:36] [Server thread/INFO] [harvestcraft]: minecraft:jungle;MEDIUM;0.95;true;false;false;[WET, JUNGLE, HOT, DENSE]
+[01:56:36] [Server thread/INFO] [harvestcraft]: minecraft:jungle_hills;MEDIUM;0.95;true;false;false;[WET, JUNGLE, HOT, DENSE, HILLS]
+[01:56:36] [Server thread/INFO] [harvestcraft]: minecraft:jungle_edge;MEDIUM;0.95;false;false;false;[WET, JUNGLE, FOREST, HOT, RARE]
+[01:56:36] [Server thread/INFO] [harvestcraft]: minecraft:deep_ocean;OCEAN;0.5;false;false;false;[OCEAN, WATER]
+[01:56:36] [Server thread/INFO] [harvestcraft]: minecraft:stone_beach;MEDIUM;0.2;false;false;false;[BEACH]
+[01:56:36] [Server thread/INFO] [harvestcraft]: minecraft:cold_beach;COLD;0.05;false;false;true;[COLD, BEACH, SNOWY]
+[01:56:36] [Server thread/INFO] [harvestcraft]: minecraft:birch_forest;MEDIUM;0.6;false;false;false;[FOREST]
+[01:56:36] [Server thread/INFO] [harvestcraft]: minecraft:birch_forest_hills;MEDIUM;0.6;false;false;false;[FOREST, HILLS]
+[01:56:36] [Server thread/INFO] [harvestcraft]: minecraft:roofed_forest;MEDIUM;0.7;false;false;false;[SPOOKY, FOREST, DENSE]
+[01:56:36] [Server thread/INFO] [harvestcraft]: minecraft:taiga_cold;COLD;-0.5;false;false;true;[COLD, CONIFEROUS, FOREST, SNOWY]
+[01:56:36] [Server thread/INFO] [harvestcraft]: minecraft:taiga_cold_hills;COLD;-0.5;false;false;true;[COLD, CONIFEROUS, FOREST, SNOWY, HILLS]
+[01:56:36] [Server thread/INFO] [harvestcraft]: minecraft:redwood_taiga;MEDIUM;0.3;false;false;false;[COLD, CONIFEROUS, FOREST]
+[01:56:36] [Server thread/INFO] [harvestcraft]: minecraft:redwood_taiga_hills;MEDIUM;0.3;false;false;false;[COLD, CONIFEROUS, FOREST, HILLS]
+[01:56:36] [Server thread/INFO] [harvestcraft]: minecraft:extreme_hills_with_trees;MEDIUM;0.2;false;false;false;[FOREST, MOUNTAIN, SPARSE]
+[01:56:36] [Server thread/INFO] [harvestcraft]: minecraft:savanna;WARM;1.2;false;false;false;[SAVANNA, PLAINS, HOT, SPARSE]
+[01:56:36] [Server thread/INFO] [harvestcraft]: minecraft:savanna_rock;WARM;1.0;false;false;false;[SAVANNA, PLAINS, HOT, SPARSE, RARE]
+[01:56:36] [Server thread/INFO] [harvestcraft]: minecraft:mesa;WARM;2.0;false;false;false;[MESA, DRY, SANDY]
+[01:56:36] [Server thread/INFO] [harvestcraft]: minecraft:mesa_rock;WARM;2.0;false;false;false;[MESA, DRY, SANDY, SPARSE]
+[01:56:36] [Server thread/INFO] [harvestcraft]: minecraft:mesa_clear_rock;WARM;2.0;false;false;false;[MESA, DRY, SANDY]
+[01:56:36] [Server thread/INFO] [harvestcraft]: minecraft:void;MEDIUM;0.5;false;false;false;[VOID]
+[01:56:36] [Server thread/INFO] [harvestcraft]: minecraft:mutated_plains;MEDIUM;0.8;false;true;false;[PLAINS, RARE]
+[01:56:36] [Server thread/INFO] [harvestcraft]: minecraft:mutated_desert;WARM;2.0;false;true;false;[DRY, SANDY, HOT, RARE]
+[01:56:36] [Server thread/INFO] [harvestcraft]: minecraft:mutated_extreme_hills;MEDIUM;0.2;false;true;false;[MOUNTAIN, SPARSE, RARE]
+[01:56:36] [Server thread/INFO] [harvestcraft]: minecraft:mutated_forest;MEDIUM;0.7;false;true;false;[FOREST, HILLS, RARE]
+[01:56:36] [Server thread/INFO] [harvestcraft]: minecraft:mutated_taiga;MEDIUM;0.25;false;true;false;[COLD, CONIFEROUS, FOREST, MOUNTAIN, RARE]
+[01:56:36] [Server thread/INFO] [harvestcraft]: minecraft:mutated_swampland;MEDIUM;0.8;true;true;false;[WET, SWAMP, HILLS, RARE]
+[01:56:36] [Server thread/INFO] [harvestcraft]: minecraft:mutated_ice_flats;COLD;0.0;false;true;true;[COLD, SNOWY, HILLS, RARE]
+[01:56:36] [Server thread/INFO] [harvestcraft]: minecraft:mutated_jungle;MEDIUM;0.95;true;true;false;[WET, JUNGLE, HOT, DENSE, MOUNTAIN, RARE]
+[01:56:36] [Server thread/INFO] [harvestcraft]: minecraft:mutated_jungle_edge;MEDIUM;0.95;false;true;false;[JUNGLE, HOT, SPARSE, HILLS, RARE]
+[01:56:36] [Server thread/INFO] [harvestcraft]: minecraft:mutated_birch_forest;MEDIUM;0.6;false;true;false;[FOREST, DENSE, HILLS, RARE]
+[01:56:36] [Server thread/INFO] [harvestcraft]: minecraft:mutated_birch_forest_hills;MEDIUM;0.6;false;true;false;[FOREST, DENSE, MOUNTAIN, RARE]
+[01:56:36] [Server thread/INFO] [harvestcraft]: minecraft:mutated_roofed_forest;MEDIUM;0.7;false;true;false;[SPOOKY, FOREST, DENSE, MOUNTAIN, RARE]
+[01:56:36] [Server thread/INFO] [harvestcraft]: minecraft:mutated_taiga_cold;COLD;-0.5;false;true;true;[COLD, CONIFEROUS, FOREST, MOUNTAIN, SNOWY, RARE]
+[01:56:36] [Server thread/INFO] [harvestcraft]: minecraft:mutated_redwood_taiga;MEDIUM;0.25;false;true;false;[FOREST, DENSE, RARE]
+[01:56:36] [Server thread/INFO] [harvestcraft]: minecraft:mutated_redwood_taiga_hills;MEDIUM;0.25;false;true;false;[FOREST, DENSE, HILLS, RARE]
+[01:56:36] [Server thread/INFO] [harvestcraft]: minecraft:mutated_extreme_hills_with_trees;MEDIUM;0.2;false;true;false;[MOUNTAIN, SPARSE, RARE]
+[01:56:36] [Server thread/INFO] [harvestcraft]: minecraft:mutated_savanna;WARM;1.1;false;true;false;[SAVANNA, DRY, HOT, MOUNTAIN, SPARSE, RARE]
+[01:56:36] [Server thread/INFO] [harvestcraft]: minecraft:mutated_savanna_rock;WARM;1.0;false;true;false;[SAVANNA, DRY, HOT, SPARSE, HILLS, RARE]
+[01:56:36] [Server thread/INFO] [harvestcraft]: minecraft:mutated_mesa;WARM;2.0;false;true;false;[DRY, HOT, MOUNTAIN, SPARSE, RARE]
+[01:56:36] [Server thread/INFO] [harvestcraft]: minecraft:mutated_mesa_rock;WARM;2.0;false;true;false;[DRY, HOT, SPARSE, HILLS, RARE]
+[01:56:36] [Server thread/INFO] [harvestcraft]: minecraft:mutated_mesa_clear_rock;WARM;2.0;false;true;false;[DRY, HOT, MOUNTAIN, SPARSE, RARE]
+[01:56:36] [Server thread/INFO] [harvestcraft]: biomesoplenty:gravel_beach;MEDIUM;0.6;false;false;false;[BEACH]
+[01:56:36] [Server thread/INFO] [harvestcraft]: biomesoplenty:white_beach;WARM;1.0;true;false;false;[BEACH]
+[01:56:36] [Server thread/INFO] [harvestcraft]: biomesoplenty:origin_beach;MEDIUM;0.6;false;false;false;[BEACH, RARE]
+[01:56:36] [Server thread/INFO] [harvestcraft]: biomesoplenty:alps;COLD;-0.25;false;false;true;[COLD, DRY, MOUNTAIN, SNOWY]
+[01:56:36] [Server thread/INFO] [harvestcraft]: biomesoplenty:bamboo_forest;MEDIUM;0.9;false;false;false;[WET, JUNGLE, FOREST, DENSE]
+[01:56:36] [Server thread/INFO] [harvestcraft]: biomesoplenty:bayou;MEDIUM;0.95;true;false;false;[WET, HOT, SWAMP, DENSE]
+[01:56:36] [Server thread/INFO] [harvestcraft]: biomesoplenty:bog;MEDIUM;0.5;true;false;false;[COLD, WET, FOREST, SWAMP]
+[01:56:36] [Server thread/INFO] [harvestcraft]: biomesoplenty:boreal_forest;MEDIUM;0.3;false;false;false;[COLD, CONIFEROUS, FOREST, DENSE, HILLS]
+[01:56:36] [Server thread/INFO] [harvestcraft]: biomesoplenty:brushland;WARM;1.5;false;false;false;[SAVANNA, DRY, HOT, SPARSE]
+[01:56:36] [Server thread/INFO] [harvestcraft]: biomesoplenty:chaparral;MEDIUM;0.8;false;false;false;[DRY, PLAINS]
+[01:56:36] [Server thread/INFO] [harvestcraft]: biomesoplenty:cherry_blossom_grove;MEDIUM;0.55;false;false;false;[MAGICAL, WET, LUSH, FOREST, DENSE]
+[01:56:36] [Server thread/INFO] [harvestcraft]: biomesoplenty:cold_desert;MEDIUM;0.2;false;false;false;[COLD, DRY, SNOWY]
+[01:56:36] [Server thread/INFO] [harvestcraft]: biomesoplenty:coniferous_forest;MEDIUM;0.45;false;false;false;[COLD, CONIFEROUS, FOREST, DENSE]
+[01:56:36] [Server thread/INFO] [harvestcraft]: biomesoplenty:crag;MEDIUM;0.5;false;false;false;[COLD, MAGICAL, WASTELAND, DRY, MOUNTAIN, HILLS]
+[01:56:36] [Server thread/INFO] [harvestcraft]: biomesoplenty:dead_forest;MEDIUM;0.3;false;false;false;[COLD, DEAD, DRY, FOREST, SPARSE]
+[01:56:36] [Server thread/INFO] [harvestcraft]: biomesoplenty:dead_swamp;MEDIUM;0.6;true;false;false;[COLD, DEAD, WET, SPOOKY, SWAMP, SPARSE]
+[01:56:36] [Server thread/INFO] [harvestcraft]: biomesoplenty:eucalyptus_forest;MEDIUM;0.95;true;false;false;[WET, JUNGLE, LUSH, FOREST, DENSE]
+[01:56:36] [Server thread/INFO] [harvestcraft]: biomesoplenty:fen;MEDIUM;0.4;false;false;false;[COLD, DEAD, WET, FOREST, SWAMP, DENSE]
+[01:56:36] [Server thread/INFO] [harvestcraft]: biomesoplenty:flower_field;MEDIUM;0.7;false;false;false;[LUSH, PLAINS]
+[01:56:36] [Server thread/INFO] [harvestcraft]: biomesoplenty:grassland;MEDIUM;0.6;false;false;false;[WET, PLAINS, HILLS]
+[01:56:36] [Server thread/INFO] [harvestcraft]: biomesoplenty:grove;MEDIUM;0.6;false;false;false;[WET, LUSH, PLAINS, FOREST, SPARSE]
+[01:56:36] [Server thread/INFO] [harvestcraft]: biomesoplenty:highland;MEDIUM;0.6;false;false;false;[WET, MOUNTAIN, HILLS]
+[01:56:36] [Server thread/INFO] [harvestcraft]: biomesoplenty:land_of_lakes;MEDIUM;0.5;true;false;false;[WET, FOREST, SWAMP, DENSE]
+[01:56:36] [Server thread/INFO] [harvestcraft]: biomesoplenty:lavender_fields;MEDIUM;0.7;false;false;false;[MAGICAL, LUSH, PLAINS]
+[01:56:36] [Server thread/INFO] [harvestcraft]: biomesoplenty:lush_desert;WARM;1.2;false;false;false;[SAVANNA, LUSH, DRY, SANDY, HOT, SPARSE]
+[01:56:36] [Server thread/INFO] [harvestcraft]: biomesoplenty:lush_swamp;MEDIUM;0.7;true;false;false;[WET, LUSH, SWAMP, DENSE]
+[01:56:36] [Server thread/INFO] [harvestcraft]: biomesoplenty:mangrove;MEDIUM;0.85;false;false;false;[WET, WATER, LUSH, SWAMP, DENSE]
+[01:56:36] [Server thread/INFO] [harvestcraft]: biomesoplenty:maple_woods;MEDIUM;0.25;false;false;false;[COLD, CONIFEROUS, FOREST, DENSE]
+[01:56:36] [Server thread/INFO] [harvestcraft]: biomesoplenty:marsh;MEDIUM;0.6;false;false;false;[WET, LUSH]
+[01:56:36] [Server thread/INFO] [harvestcraft]: biomesoplenty:meadow;MEDIUM;0.4;false;false;false;[COLD, WET, LUSH, PLAINS, FOREST, SPARSE]
+[01:56:36] [Server thread/INFO] [harvestcraft]: biomesoplenty:moor;MEDIUM;0.6;true;false;false;[WET, SWAMP, HILLS]
+[01:56:36] [Server thread/INFO] [harvestcraft]: biomesoplenty:mountain;MEDIUM;0.5;false;false;false;[DRY, FOREST, MOUNTAIN, SPARSE]
+[01:56:36] [Server thread/INFO] [harvestcraft]: biomesoplenty:mystic_grove;MEDIUM;0.7;false;false;false;[MAGICAL, WET, LUSH, FOREST, DENSE, RARE]
+[01:56:36] [Server thread/INFO] [harvestcraft]: biomesoplenty:ominous_woods;MEDIUM;0.6;false;false;false;[DEAD, MAGICAL, WET, SPOOKY, FOREST, DENSE, RARE]
+[01:56:36] [Server thread/INFO] [harvestcraft]: biomesoplenty:orchard;MEDIUM;0.7;false;false;false;[LUSH, PLAINS, FOREST, DENSE]
+[01:56:36] [Server thread/INFO] [harvestcraft]: biomesoplenty:outback;WARM;2.0;false;false;false;[SAVANNA, DRY, SANDY, HOT, SPARSE]
+[01:56:36] [Server thread/INFO] [harvestcraft]: biomesoplenty:overgrown_cliffs;MEDIUM;0.95;false;false;false;[WET, JUNGLE, LUSH, MOUNTAIN, DENSE, HILLS]
+[01:56:36] [Server thread/INFO] [harvestcraft]: biomesoplenty:prairie;MEDIUM;0.8;false;false;false;[DRY, PLAINS, SPARSE]
+[01:56:36] [Server thread/INFO] [harvestcraft]: biomesoplenty:quagmire;MEDIUM;0.6;true;false;false;[DEAD, WET, WASTELAND, SWAMP]
+[01:56:36] [Server thread/INFO] [harvestcraft]: biomesoplenty:rainforest;MEDIUM;0.95;true;false;false;[WET, JUNGLE, LUSH, FOREST, DENSE, HILLS]
+[01:56:36] [Server thread/INFO] [harvestcraft]: biomesoplenty:redwood_forest;MEDIUM;0.7;false;false;false;[FOREST, DENSE]
+[01:56:36] [Server thread/INFO] [harvestcraft]: biomesoplenty:sacred_springs;MEDIUM;0.85;true;false;false;[MAGICAL, WET, JUNGLE, LUSH, FOREST, DENSE, RARE]
+[01:56:36] [Server thread/INFO] [harvestcraft]: biomesoplenty:seasonal_forest;MEDIUM;0.4;false;false;false;[COLD, FOREST, DENSE]
+[01:56:36] [Server thread/INFO] [harvestcraft]: biomesoplenty:shield;MEDIUM;0.4;false;false;false;[COLD, WET, FOREST, DENSE]
+[01:56:36] [Server thread/INFO] [harvestcraft]: biomesoplenty:shrubland;MEDIUM;0.6;false;false;false;[DRY, PLAINS, SPARSE]
+[01:56:36] [Server thread/INFO] [harvestcraft]: biomesoplenty:snowy_coniferous_forest;COLD;-0.25;false;false;true;[COLD, CONIFEROUS, FOREST, DENSE, SNOWY]
+[01:56:36] [Server thread/INFO] [harvestcraft]: biomesoplenty:snowy_forest;COLD;-0.25;false;false;true;[COLD, WET, FOREST, SNOWY, SPARSE]
+[01:56:36] [Server thread/INFO] [harvestcraft]: biomesoplenty:steppe;MEDIUM;0.75;false;false;false;[DRY, PLAINS, SANDY]
+[01:56:36] [Server thread/INFO] [harvestcraft]: biomesoplenty:temperate_rainforest;MEDIUM;0.75;true;false;false;[WET, LUSH, FOREST, DENSE]
+[01:56:36] [Server thread/INFO] [harvestcraft]: biomesoplenty:tropical_rainforest;WARM;1.0;true;false;false;[WET, JUNGLE, LUSH, HOT, DENSE]
+[01:56:36] [Server thread/INFO] [harvestcraft]: biomesoplenty:tundra;MEDIUM;0.2;false;false;false;[COLD, DEAD, WET, WASTELAND, SPARSE]
+[01:56:36] [Server thread/INFO] [harvestcraft]: biomesoplenty:wasteland;WARM;2.0;false;false;false;[DEAD, WASTELAND, DRY, SPARSE]
+[01:56:36] [Server thread/INFO] [harvestcraft]: biomesoplenty:wetland;MEDIUM;0.6;false;false;false;[WET, LUSH, FOREST, SWAMP, DENSE]
+[01:56:36] [Server thread/INFO] [harvestcraft]: biomesoplenty:woodland;MEDIUM;0.7;false;false;false;[DRY, FOREST, DENSE]
+[01:56:36] [Server thread/INFO] [harvestcraft]: biomesoplenty:xeric_shrubland;WARM;1.75;false;false;false;[SAVANNA, LUSH, DRY, SANDY, HOT, SPARSE]
+[01:56:36] [Server thread/INFO] [harvestcraft]: biomesoplenty:alps_foothills;COLD;-0.25;false;false;true;[COLD, DRY, FOREST, MOUNTAIN, SNOWY, SPARSE]
+[01:56:36] [Server thread/INFO] [harvestcraft]: biomesoplenty:mountain_foothills;MEDIUM;0.5;false;false;false;[DRY, FOREST, MOUNTAIN, HILLS, SPARSE]
+[01:56:36] [Server thread/INFO] [harvestcraft]: biomesoplenty:redwood_forest_edge;MEDIUM;0.7;false;false;false;[FOREST, DENSE]
+[01:56:36] [Server thread/INFO] [harvestcraft]: biomesoplenty:pasture;MEDIUM;0.8;false;false;false;[DRY, PLAINS, SPARSE]
+[01:56:36] [Server thread/INFO] [harvestcraft]: biomesoplenty:glacier;COLD;-0.5;false;false;false;[COLD, WASTELAND, SNOWY]
+[01:56:36] [Server thread/INFO] [harvestcraft]: biomesoplenty:oasis;WARM;2.0;false;false;false;[WET, JUNGLE, LUSH, SANDY, HOT, SPARSE]
+[01:56:36] [Server thread/INFO] [harvestcraft]: biomesoplenty:snowy_tundra;COLD;0.0;false;false;false;[COLD, DEAD, WET, WASTELAND, SNOWY, SPARSE]
+[01:56:36] [Server thread/INFO] [harvestcraft]: biomesoplenty:coral_reef;MEDIUM;0.5;false;false;false;[OCEAN, WATER]
+[01:56:36] [Server thread/INFO] [harvestcraft]: biomesoplenty:kelp_forest;MEDIUM;0.5;false;false;false;[OCEAN, WATER]
+[01:56:36] [Server thread/INFO] [harvestcraft]: biomesoplenty:origin_island;MEDIUM;0.6;false;false;false;[WATER, FOREST, RARE]
+[01:56:36] [Server thread/INFO] [harvestcraft]: biomesoplenty:tropical_island;MEDIUM;0.95;true;false;false;[WET, JUNGLE, WATER, LUSH, DENSE]
+[01:56:36] [Server thread/INFO] [harvestcraft]: biomesoplenty:volcanic_island;WARM;1.2;false;false;false;[DEAD, WATER, WASTELAND, DRY, HOT, MOUNTAIN]
+[01:56:36] [Server thread/INFO] [harvestcraft]: biomesoplenty:flower_island;MEDIUM;0.8;false;false;false;[MAGICAL, WATER, LUSH, PLAINS, DENSE]
+[01:56:36] [Server thread/INFO] [harvestcraft]: biomesoplenty:corrupted_sands;WARM;2.0;false;false;false;[DRY, NETHER, SANDY, HOT, DENSE]
+[01:56:36] [Server thread/INFO] [harvestcraft]: biomesoplenty:fungi_forest;WARM;2.0;false;false;false;[NETHER, MUSHROOM, HOT, DENSE]
+[01:56:36] [Server thread/INFO] [harvestcraft]: biomesoplenty:phantasmagoric_inferno;WARM;2.0;false;false;false;[MAGICAL, SPOOKY, WASTELAND, DRY, NETHER, HOT]
+[01:56:36] [Server thread/INFO] [harvestcraft]: biomesoplenty:undergarden;WARM;2.0;false;false;false;[LUSH, NETHER, HOT]
+[01:56:36] [Server thread/INFO] [harvestcraft]: biomesoplenty:visceral_heap;WARM;2.0;false;false;false;[WET, NETHER, HOT]
+[01:56:36] [Server thread/INFO] [harvestcraft]: thaumcraft:magical_forest;MEDIUM;0.8;false;false;false;[MAGICAL, FOREST]
+[01:56:36] [Server thread/INFO] [harvestcraft]: thaumcraft:eerie;MEDIUM;0.8;false;false;false;[MAGICAL, SPOOKY]
+[01:56:36] [Server thread/INFO] [harvestcraft]: thaumcraft:eldritch;MEDIUM;0.8;false;false;false;[MAGICAL, SPOOKY, END]
+[01:56:36] [Server thread/INFO] [harvestcraft]: futureminecraf:frozenocean;MEDIUM;0.2;false;false;false;[OCEAN, WATER, PLAINS]
+[01:56:36] [Server thread/INFO] [harvestcraft]: Registering drops for shadedGarden.
+[01:56:36] [Server thread/INFO] [harvestcraft]: Registering drops for tropicalGarden.
+[01:56:36] [Server thread/INFO] [harvestcraft]: Registering drops for windyGarden.
+[01:56:36] [Server thread/INFO] [harvestcraft]: Registering drops for frostGarden.
+[01:56:36] [Server thread/INFO] [harvestcraft]: Registering drops for aridGarden.
+[01:56:36] [Server thread/INFO] [harvestcraft]: Registering drops for soggyGarden.
+[01:56:36] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `pamapiary`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[01:56:36] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `pammarket`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[01:56:36] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `pamshippingbin`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[01:56:36] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `pampresser`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[01:56:36] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `pamgroundtrap`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[01:56:36] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `pamwatertrap`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[01:56:36] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `pamwaterfilter`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[01:56:36] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `pamgrinder`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[01:56:36] [Server thread/INFO] [FML]: Injecting itemstacks
+[01:56:36] [Server thread/INFO] [FML]: Itemstack injection complete
+[01:56:36] [Server thread/INFO] [betterbuilderswands]: Added 'minecraft:grass/0=>1*minecraft:grass/0=>minecraft:grass/0' to mapping
+[01:56:36] [Server thread/INFO] [betterbuilderswands]: Added 'minecraft:grass/0=>1*minecraft:dirt/0=>minecraft:dirt/0' to mapping
+[01:56:36] [Server thread/INFO] [betterbuilderswands]: Added 'minecraft:lapis_ore/0=>1*minecraft:lapis_ore/4=>minecraft:lapis_ore/0' to mapping
+[01:56:36] [Server thread/INFO] [betterbuilderswands]: Added 'minecraft:lit_redstone_ore/0=>1*minecraft:redstone_ore/0=>minecraft:lit_redstone_ore/0' to mapping
+[01:56:36] [Server thread/INFO] [betterbuilderswands]: Added 'minecraft:grass/0=>1*minecraft:grass/0=>minecraft:grass/0' to mapping
+[01:56:36] [Server thread/INFO] [betterbuilderswands]: Added 'minecraft:grass/0=>1*minecraft:dirt/0=>minecraft:dirt/0' to mapping
+[01:56:36] [Server thread/INFO] [betterbuilderswands]: Added 'minecraft:dirt/1=>1*minecraft:dirt/1=>minecraft:dirt/1' to mapping
+[01:56:36] [Server thread/INFO] [betterbuilderswands]: Added 'minecraft:dirt/1=>1*minecraft:dirt/0=>minecraft:dirt/0' to mapping
+[01:56:36] [Server thread/INFO] [betterbuilderswands]: Added 'minecraft:dirt/2=>1*minecraft:dirt/2=>minecraft:dirt/2' to mapping
+[01:56:36] [Server thread/INFO] [betterbuilderswands]: Added 'minecraft:dirt/2=>1*minecraft:dirt/0=>minecraft:dirt/0' to mapping
+[01:56:36] [Server thread/INFO] [iChunUtil]: =============================================================
+[01:56:36] [Server thread/INFO] [iChunUtil]: By using iChunUtil you therefore agree to the EULA of the mod. It may be found in the jar file of the mod. The latest version will be available on iChun's website or on GitHub.
+[01:56:36] [Server thread/INFO] [iChunUtil]: You can disable this console message by going to the iChunUtil config and setting the "eulaAcknowledged" config to "true" (no quotes).
+[01:56:36] [Server thread/INFO] [iChunUtil]: =============================================================
+[01:56:36] [Server thread/INFO] [tconstruct-TinkerSmeltery]: Started adding oredict melting recipes
+[01:56:37] [Server thread/INFO] [tconstruct-TinkerSmeltery]: Oredict melting recipes finished in 714.685069 ms
+[01:56:37] [Server thread/INFO] [THAUMCRAFT]: Loaded 22 research entries from thaumcraft:research/alchemy
+[01:56:37] [Server thread/INFO] [THAUMCRAFT]: Loaded 5 research entries from thaumcraft:research/eldritch
+[01:56:37] [Server thread/INFO] [THAUMCRAFT]: Loaded 20 research entries from thaumcraft:research/basics
+[01:56:37] [Server thread/INFO] [THAUMCRAFT]: Loaded 23 research entries from thaumcraft:research/auromancy
+[01:56:37] [Server thread/INFO] [THAUMCRAFT]: Loaded 12 research entries from thaumcraft:research/scans
+[01:56:37] [Server thread/INFO] [THAUMCRAFT]: Loaded 20 research entries from thaumcraft:research/artifice
+[01:56:37] [Server thread/INFO] [THAUMCRAFT]: Loaded 17 research entries from thaumcraft:research/infusion
+[01:56:37] [Server thread/INFO] [THAUMCRAFT]: Loaded 29 research entries from thaumcraft:research/golemancy
+[01:56:37] [Server thread/INFO] [torchmaster]: Applying mega torch entity block list overrides...
+[01:56:37] [Server thread/INFO] [torchmaster]: Applying dread lamp entity block list overrides...
+[01:56:38] [Server thread/WARN] [RTG]: .= === = ================================ = ================================================== =.
+[01:56:38] [Server thread/WARN] [RTG]: ||                 RTG could not find realistic versions of the following biomes               ||
+[01:56:38] [Server thread/WARN] [RTG]: || === = ================================ = ================================================== ||
+[01:56:38] [Server thread/WARN] [RTG]: ||  ID | Biome Class                      | Registry Name                                      ||
+[01:56:38] [Server thread/WARN] [RTG]: || --- - -------------------------------- - -------------------------------------------------- ||
+[01:56:38] [Server thread/WARN] [RTG]: ||  97 | BiomeGenRedwoodForest            | biomesoplenty:redwood_forest_edge                  ||
+[01:56:38] [Server thread/WARN] [RTG]: || 101 | BiomeGenTundra                   | biomesoplenty:snowy_tundra                         ||
+[01:56:38] [Server thread/WARN] [RTG]: || 116 | BiomeGenCustom                   | futureminecraf:frozenocean                         ||
+[01:56:38] [Server thread/WARN] [RTG]: `= === | ================================ | ================================================== =`
+[01:56:38] [Server thread/INFO] [cofhcore]: CoFH Core: Load Complete.
+[01:56:38] [Server thread/INFO] [CoFH World]: Accumulating world generation files from: "/workspaces/mine-2.0/servidor_minecraft/config/cofh/world"
+[01:56:38] [Server thread/INFO] [CoFH World]: Found a total of 0 world generation files.
+[01:56:38] [Server thread/INFO] [CoFH World]: CoFH World: Load Complete.
+[01:56:38] [Server thread/INFO] [Waila]: Starting Waila...
+[01:56:38] [Server thread/INFO] [Waila]: Gathering annotated plugins...
+[01:56:38] [Server thread/INFO] [Waila]: Gathering wrapped IMC plugins...
+[01:56:38] [Server thread/INFO] [Waila]: Registering plugins...
+[01:56:38] [Server thread/INFO] [Waila]: Registering plugin at mcp.mobius.waila.addons.core.PluginCore
+[01:56:38] [Server thread/INFO] [Waila]: Registering plugin at mcp.mobius.waila.addons.minecraft.PluginMinecraft
+[01:56:38] [Server thread/INFO] [Waila]: Registering plugin at mcp.mobius.waila.addons.capability.PluginCapability
+[01:56:38] [Server thread/INFO] [Waila]: Registering plugin at com.ferreusveritas.dynamictrees.compat.WailaCompat
+[01:56:38] [Server thread/INFO] [Waila]: Registering plugin at net.blay09.mods.waystones.compat.WailaProvider
+[01:56:38] [Server thread/INFO] [Waila]: Registering plugin at net.geforcemods.securitycraft.compat.hudmods.WailaDataProvider
+[01:56:38] [Server thread/INFO] [Waila]: Registering plugin at org.icannt.netherendingores.integration.common.compat.WailaCompatibility
+[01:56:38] [Server thread/INFO] [Waila]: Registering plugin at ovh.corail.tombstone.compatibility.IntegrationWaila
+[01:56:38] [Server thread/INFO] [Waila]: Registering plugin at slimeknights.tconstruct.plugin.waila.WailaRegistrar
+[01:56:38] [Server thread/INFO] [Waila]: Starting Waila took 56.31 ms
+[01:56:38] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 54 mods
+[01:56:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "world"
+[01:56:38] [Server thread/INFO] [FML]: Injecting existing registry data into this server instance
+[01:56:39] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world mowziesmobs:campfire
+[01:56:39] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world mowziesmobs:painted_acacia_double_slab
+[01:56:39] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world mowziesmobs:grottol
+[01:56:39] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world mowziesmobs:painted_acacia
+[01:56:39] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world mowziesmobs:painted_acacia_slab
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:shroomlight Expected: 1322 Got: 1389
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:deadhorncoral Expected: 1170 Got: 1390
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:warpedstairs Expected: 1313 Got: 1391
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:warpedslab Expected: 1310 Got: 1392
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:strippedjunglewood Expected: 1193 Got: 1393
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:oldcampfire Expected: 1367 Got: 1394
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:crimsonfungi Expected: 1331 Got: 1395
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:crimsontrapdoor Expected: 1334 Got: 1396
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:warpedfungispawn Expected: 1387 Got: 1397
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:polishedblackstonebrickwall Expected: 1353 Got: 1398
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:beehive Expected: 1251 Got: 1399
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:bell Expected: 1211 Got: 1400
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:darkoaktrapdoor Expected: 1198 Got: 1401
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:warpedslab_double Expected: 1311 Got: 1402
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:barrel Expected: 1201 Got: 1403
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:mossycobblestonewallsmart Expected: 1297 Got: 1404
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:soulfire Expected: 1369 Got: 1405
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:netherwartblockdrop Expected: 1386 Got: 1407
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:mossystonebrickslab Expected: 1235 Got: 1408
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:blackstonewall Expected: 1342 Got: 1409
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:redsmoothsandstoneslab Expected: 1280 Got: 1410
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:firecoral Expected: 1164 Got: 1411
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:driedkelpblock Expected: 1171 Got: 1412
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:redsandstonewallsmooth Expected: 1410 Got: 1413
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:darkprismarineslab_double Expected: 1175 Got: 1414
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:soulfirelantern Expected: 1324 Got: 1415
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:crimsonstem Expected: 1314 Got: 1416
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:oldsmithingtable Expected: 1206 Got: 1417
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:crimsonhyphae Expected: 1318 Got: 1418
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:weepingvines Expected: 1327 Got: 1419
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:strippeddarkoakwood Expected: 1195 Got: 1420
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:campfire Expected: 1217 Got: 1421
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:mossycobblestoneslab_double Expected: 1234 Got: 1422
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:scaffoldingunstablefall Expected: 1421 Got: 1423
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:endstonebrickwallsmooth Expected: 1415 Got: 1424
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:warpednyliumspread Expected: 1383 Got: 1425
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:andesitewallsmooth Expected: 1404 Got: 1426
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:blueice Expected: 1159 Got: 1427
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:prismarinebrickstairs Expected: 1273 Got: 1428
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:polishedblackstonewallsmooth Expected: 1416 Got: 1429
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:darkoakwood Expected: 1183 Got: 1430
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:prismarinestairs Expected: 1272 Got: 1431
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:crimsonfence Expected: 1307 Got: 1432
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:deadbubblecoral Expected: 1168 Got: 1433
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:mossystonebrickslab_double Expected: 1236 Got: 1434
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:andesiteslab Expected: 1225 Got: 1435
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:stonecutter Expected: 1209 Got: 1436
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:netheriteblock Expected: 1301 Got: 1437
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:smoothquartzstairs Expected: 1267 Got: 1438
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:smoothstone Expected: 1255 Got: 1439
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:warpedplanks Expected: 1309 Got: 1440
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:graniteslab Expected: 1231 Got: 1441
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:berrybushspawn Expected: 1401 Got: 1442
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:dioriteslab_double Expected: 1228 Got: 1443
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:polishedgranitestair Expected: 1262 Got: 1444
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:mossycobblestonestairs Expected: 1264 Got: 1445
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:strippedwarpedhyphae Expected: 1320 Got: 1446
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:lava Expected: 1365 Got: 1447
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:basaltpillardrop Expected: 1381 Got: 1448
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:smoothquartzslab_double Expected: 1271 Got: 1449
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:chiseledpolishedblackstone Expected: 1348 Got: 1450
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:crimsonnyliumspread Expected: 1382 Got: 1451
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:strippedacaialog Expected: 1188 Got: 1452
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:polishedblackstonebrickwallsmooth Expected: 1417 Got: 1453
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:crackednetherbricks Expected: 1362 Got: 1454
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:strippedwarpedstem Expected: 1316 Got: 1455
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:horncoral Expected: 1165 Got: 1456
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:prismarinebrickslab_double Expected: 1177 Got: 1457
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:nethersprout Expected: 1333 Got: 1458
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:strippedjunglelogrecipe Expected: 1187 Got: 1459
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:blackstoneslab Expected: 1339 Got: 1460
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:respawnanchor Expected: 1360 Got: 1461
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:stoneslab_double Expected: 1244 Got: 1462
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:darkprismarinestairs Expected: 1274 Got: 1463
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:strippedcrimsonhyphae Expected: 1321 Got: 1464
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:strippedacaciawood Expected: 1194 Got: 1465
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:strippedcrimsonstem Expected: 1317 Got: 1466
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:scaffolding Expected: 1219 Got: 1467
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:acaciawood Expected: 1182 Got: 1468
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:crimsonslab Expected: 1305 Got: 1469
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:test Expected: 1402 Got: 1470
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:oldfletchingtable Expected: 1204 Got: 1471
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:soulsoil Expected: 1357 Got: 1472
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:chain Expected: 1363 Got: 1473
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:strippedsprucelog Expected: 1186 Got: 1474
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:warpedfungi Expected: 1332 Got: 1475
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:mossycobblestoneslab Expected: 1233 Got: 1476
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:andesitestair Expected: 1257 Got: 1477
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:mossycobblestonewallsmooth Expected: 1419 Got: 1478
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:loom Expected: 1208 Got: 1479
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:birchwood Expected: 1179 Got: 1480
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:berrybushstage1 Expected: 1375 Got: 1481
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:berrybushstage0 Expected: 1374 Got: 1482
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:soulsoilspread Expected: 1389 Got: 1483
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:jigsaw Expected: 1221 Got: 1484
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:crimsonnylium Expected: 1302 Got: 1485
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:quartzbricks Expected: 1358 Got: 1486
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:cutsandstoneslab_double Expected: 1246 Got: 1487
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:berrybushstage3 Expected: 1377 Got: 1488
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:composter Expected: 1216 Got: 1489
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:berrybushstage2 Expected: 1376 Got: 1490
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:polishedblackstonewall Expected: 1347 Got: 1491
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:polishedblackstonebrickstairs Expected: 1352 Got: 1492
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:composterfinished Expected: 1400 Got: 1493
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:oakwood Expected: 1178 Got: 1494
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:stonestair Expected: 1256 Got: 1495
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:cobblestonewallsmart Expected: 1296 Got: 1496
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:polishedandesiteslab_double Expected: 1238 Got: 1497
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:polishedbasalt Expected: 1299 Got: 1498
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:lantern Expected: 1220 Got: 1499
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:polishedandesitestair Expected: 1258 Got: 1500
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:cartographytable Expected: 1203 Got: 1501
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:blackstoneslab_double Expected: 1340 Got: 1502
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:polishedblackstonestairs Expected: 1346 Got: 1503
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:graniteslab_double Expected: 1232 Got: 1504
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:smoothsandstoneslab Expected: 1278 Got: 1505
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:crimsonslab_double Expected: 1306 Got: 1506
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:lilyofthevalley Expected: 1223 Got: 1507
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:basaltpillarblock Expected: 1380 Got: 1508
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:lectern Expected: 1213 Got: 1509
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:deadfirecoral Expected: 1169 Got: 1510
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:prismarineslab_double Expected: 1173 Got: 1511
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:polishedgraniteslab_double Expected: 1242 Got: 1512
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:sprucewood Expected: 1180 Got: 1513
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:witherroseplant Expected: 1222 Got: 1514
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:jungletrapdoor Expected: 1199 Got: 1515
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:granitewallsmooth Expected: 1407 Got: 1516
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:endstonebrickwall Expected: 1295 Got: 1517
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:petrifiedwoodslab_double Expected: 1250 Got: 1518
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:prismarinebrickslab Expected: 1176 Got: 1519
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:smoothquartzslab Expected: 1270 Got: 1520
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:rednetherbrickwallsmooth Expected: 1414 Got: 1521
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:warpednylium Expected: 1303 Got: 1522
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:cutsandstoneslab Expected: 1245 Got: 1523
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:strippedoaklog Expected: 1184 Got: 1524
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:strippeddarkoaklog Expected: 1189 Got: 1525
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:crackedpolishedblackstonebricks Expected: 1354 Got: 1526
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:crimsonstairs Expected: 1308 Got: 1527
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:polishedblackstonebrickslab_double Expected: 1351 Got: 1528
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:strippedbirchlog Expected: 1185 Got: 1529
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:dioritewall Expected: 1284 Got: 1530
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:smoothsandstoneslab_double Expected: 1279 Got: 1531
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:crimsonplanks Expected: 1304 Got: 1532
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:petrifiedwoodslab Expected: 1249 Got: 1533
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:cutredsandstoneslab Expected: 1247 Got: 1534
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:polisheddioriteslab Expected: 1239 Got: 1535
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:endstonebrickstairs Expected: 1269 Got: 1536
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:redsmoothsandstoneslab_double Expected: 1281 Got: 1537
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:dioritestair Expected: 1259 Got: 1538
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:warpedroots Expected: 1330 Got: 1539
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:sandstonewall Expected: 1291 Got: 1540
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:polishedblackstoneslab Expected: 1344 Got: 1541
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:stonebrickwall Expected: 1290 Got: 1542
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:basaltdeltapillar Expected: 1391 Got: 1543
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:polishedblackstone Expected: 1343 Got: 1544
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:warpednetherwartdrop Expected: 1388 Got: 1545
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:stoneslab Expected: 1243 Got: 1546
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:deadtubecoral Expected: 1167 Got: 1547
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:smoothsandstone Expected: 1276 Got: 1548
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:oldcobblestoneslab Expected: 1364 Got: 1549
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:chiselednetherbricks Expected: 1361 Got: 1550
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:polishedblackstoneslab_double Expected: 1345 Got: 1551
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:mossystonebrickstairs Expected: 1263 Got: 1552
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:cryingobsidian Expected: 1359 Got: 1553
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:mossystonebricksmooth Expected: 1408 Got: 1554
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:beenest Expected: 1252 Got: 1555
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:redsandstonewall Expected: 1292 Got: 1556
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:scaffoldingsolidunstable Expected: 1423 Got: 1557
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:fungispawn Expected: 1385 Got: 1558
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:cobblestonewallsmooth Expected: 1418 Got: 1559
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:blackstonestairs Expected: 1341 Got: 1560
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:deadbraincoral Expected: 1166 Got: 1561
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:twistingvines Expected: 1328 Got: 1562
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:target Expected: 1336 Got: 1563
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:rednetherbrickslab Expected: 1282 Got: 1564
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:unlitcampfire Expected: 1368 Got: 1565
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:junglewood Expected: 1181 Got: 1566
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:strippedoakwood Expected: 1190 Got: 1567
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:stonebrickwallsmooth Expected: 1403 Got: 1568
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:netherbrickwallsmooth Expected: 1413 Got: 1569
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:uncarvedpumpkin Expected: 1160 Got: 1570
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:composter1 Expected: 1393 Got: 1571
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:composter3 Expected: 1395 Got: 1572
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:darkprismarineslab Expected: 1174 Got: 1573
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:composter2 Expected: 1394 Got: 1574
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:strippedsprucewood Expected: 1192 Got: 1575
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:acaciatrapdoor Expected: 1196 Got: 1576
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:composter5 Expected: 1397 Got: 1577
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:composter4 Expected: 1396 Got: 1578
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:composter7 Expected: 1399 Got: 1579
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:composter6 Expected: 1398 Got: 1580
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:prismarineslab Expected: 1172 Got: 1581
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:strippedbirchwood Expected: 1191 Got: 1582
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:andesiteslab_double Expected: 1226 Got: 1583
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:polisheddioriteslab_double Expected: 1240 Got: 1584
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:blackstone Expected: 1338 Got: 1585
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:smithingtable Expected: 1207 Got: 1586
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:redsmoothsandstone Expected: 1277 Got: 1587
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:ancientdebris Expected: 1300 Got: 1588
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:respawnanchorlevel2 Expected: 1371 Got: 1589
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:smoothquartzblock Expected: 1275 Got: 1590
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:respawnanchorlevel1 Expected: 1370 Got: 1591
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:endstonebrickslab Expected: 1229 Got: 1592
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:respawnanchorlevel4 Expected: 1373 Got: 1593
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:respawnanchorlevel3 Expected: 1372 Got: 1594
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:basaltdeltaspread Expected: 1390 Got: 1595
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:rednetherbrickwall Expected: 1294 Got: 1596
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:braincoral Expected: 1161 Got: 1597
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:lodestone Expected: 1337 Got: 1598
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:honeycombblock Expected: 1254 Got: 1599
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:sandstonewallsmooth Expected: 1409 Got: 1600
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:smoothsandstonestairs Expected: 1265 Got: 1601
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:scaffoldingsolid Expected: 1422 Got: 1602
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:tubecoral Expected: 1162 Got: 1603
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:smoothredsandstonestairs Expected: 1266 Got: 1604
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:dioriteslab Expected: 1227 Got: 1605
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:crimsonroots Expected: 1329 Got: 1606
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:hanging_lantern Expected: 1424 Got: 1607
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:soulcampfire Expected: 1325 Got: 1608
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:granitestair Expected: 1261 Got: 1609
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:polishedblackstonebrickslab Expected: 1350 Got: 1610
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:smoker Expected: 1214 Got: 1611
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:grindstone Expected: 1212 Got: 1612
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:polisheddioritestair Expected: 1260 Got: 1613
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:mossystonebrickwall Expected: 1289 Got: 1614
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:basalt Expected: 1298 Got: 1615
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:basaltdeltamountainform Expected: 1392 Got: 1616
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:blastfurnace Expected: 1215 Got: 1617
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:gildedblackstone Expected: 1355 Got: 1618
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:warpedfence Expected: 1312 Got: 1619
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:unlitsoulcampfire Expected: 1378 Got: 1620
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:oldcartographytable Expected: 1202 Got: 1621
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:netherbrickwall Expected: 1293 Got: 1622
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:rednetherbrickslab_double Expected: 1283 Got: 1623
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:granitewall Expected: 1286 Got: 1624
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:scaffoldingunstable Expected: 1420 Got: 1625
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:bubblecoral Expected: 1163 Got: 1626
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:endstonebrickslab_double Expected: 1230 Got: 1627
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:polishedblackstonebricks Expected: 1349 Got: 1628
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:cornflower Expected: 1224 Got: 1629
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:brickwallsmooth Expected: 1411 Got: 1630
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:cutredsandstoneslab_double Expected: 1248 Got: 1631
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:honeyblock Expected: 1253 Got: 1632
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:polishedgraniteslab Expected: 1241 Got: 1633
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:fletchingtable Expected: 1205 Got: 1634
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:oldstonecutter Expected: 1210 Got: 1635
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:soulfiretorch Expected: 1326 Got: 1636
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:polishedandesiteslab Expected: 1237 Got: 1637
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:warpedwartblock Expected: 1323 Got: 1638
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:prismarinewallsmooth Expected: 1412 Got: 1639
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:nethergoldore Expected: 1356 Got: 1640
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:brickwall Expected: 1287 Got: 1641
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:netherbiomespawner Expected: 1384 Got: 1642
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:sprucetrapdoor Expected: 1200 Got: 1643
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:birchtrapdoor Expected: 1197 Got: 1644
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:oldcampfirelit Expected: 1218 Got: 1645
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:wallsoultorch Expected: 1405 Got: 1646
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:soulhanginglantern Expected: 1379 Got: 1647
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:prismarinewall Expected: 1288 Got: 1648
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:warpedtrapdoor Expected: 1335 Got: 1649
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:bamboo2 Expected: 1366 Got: 1650
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:warpedstem Expected: 1315 Got: 1651
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:rednetherbbrickstairs Expected: 1268 Got: 1652
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:andesitewall Expected: 1285 Got: 1653
+[01:56:39] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: futureminecraf:warpedhyphae Expected: 1319 Got: 1654
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:shroomlight Expected: 6435 Got: 4855
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:deadhorncoral Expected: 6294 Got: 4856
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:netheritehelmet Expected: 6449 Got: 4857
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:dioritewallsmooth Expected: 6540 Got: 4858
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:bluedye Expected: 6365 Got: 4859
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:warpedstairs Expected: 6426 Got: 4860
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:warpedslab Expected: 6424 Got: 4861
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:strippedjunglewood Expected: 6317 Got: 4862
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:oldcampfire Expected: 6500 Got: 4863
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:crimsonfungi Expected: 6457 Got: 4864
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:crimsontrapdoor Expected: 6460 Got: 4865
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:warpedfungispawn Expected: 6521 Got: 4866
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:polishedblackstonebrickwall Expected: 6476 Got: 4867
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:beehive Expected: 6368 Got: 4868
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:bell Expected: 6336 Got: 4869
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:darkoaktrapdoor Expected: 6322 Got: 4870
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:barrel Expected: 6326 Got: 4871
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:mossycobblestonewallsmart Expected: 6412 Got: 4872
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:soulfire Expected: 6503 Got: 4873
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:netherwartblockdrop Expected: 6520 Got: 4874
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:mossystonebrickslab Expected: 6355 Got: 4875
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:blackstonewall Expected: 6467 Got: 4876
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:browndye Expected: 6366 Got: 4877
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:redsmoothsandstoneslab Expected: 6397 Got: 4878
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:firecoral Expected: 6288 Got: 4879
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:driedkelpblock Expected: 6297 Got: 7626
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:redsandstonewallsmooth Expected: 6544 Got: 7627
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:soulfirelantern Expected: 6437 Got: 7628
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:crimsonstem Expected: 6427 Got: 7629
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:oldsmithingtable Expected: 6331 Got: 7630
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:crimsonhyphae Expected: 6431 Got: 7631
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:netheriteaxe Expected: 6445 Got: 7632
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:weepingvines Expected: 6453 Got: 7633
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:strippeddarkoakwood Expected: 6319 Got: 7634
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:campfire Expected: 6342 Got: 7635
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:suspiciousstew1 Expected: 6489 Got: 7636
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:scaffoldingunstablefall Expected: 6555 Got: 7637
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:endstonebrickwallsmooth Expected: 6549 Got: 7638
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:warpednyliumspread Expected: 6517 Got: 7639
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:andesitewallsmooth Expected: 6538 Got: 7640
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:blueice Expected: 6283 Got: 7641
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:honeybottle Expected: 6373 Got: 7642
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:sweetberry Expected: 6363 Got: 7643
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:prismarinebrickstairs Expected: 6391 Got: 7644
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:polishedblackstonewallsmooth Expected: 6550 Got: 7645
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:darkoakwood Expected: 6307 Got: 7646
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:prismarinestairs Expected: 6390 Got: 7647
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:crimsonfence Expected: 6421 Got: 7648
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:deadbubblecoral Expected: 6292 Got: 7649
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:andesiteslab Expected: 6350 Got: 7650
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:stonecutter Expected: 6334 Got: 7651
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:netheriteblock Expected: 6416 Got: 7652
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:smoothquartzstairs Expected: 6386 Got: 7653
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:smoothstone Expected: 6374 Got: 7654
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:warpedplanks Expected: 6423 Got: 7655
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:graniteslab Expected: 6353 Got: 7656
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:berrybushspawn Expected: 6535 Got: 7657
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:polishedgranitestair Expected: 6381 Got: 7658
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:mossycobblestonestairs Expected: 6383 Got: 7659
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:strippedwarpedhyphae Expected: 6433 Got: 7660
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:lava Expected: 6488 Got: 7661
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:basaltpillardrop Expected: 6515 Got: 7662
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:bambooitem Expected: 6325 Got: 7663
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:chiseledpolishedblackstone Expected: 6472 Got: 7664
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:crimsonnyliumspread Expected: 6516 Got: 7665
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:strippedacaialog Expected: 6312 Got: 7666
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:polishedblackstonebrickwallsmooth Expected: 6551 Got: 7667
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:crackednetherbricks Expected: 6485 Got: 7668
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:strippedwarpedstem Expected: 6429 Got: 7669
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:horncoral Expected: 6289 Got: 7670
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:nethersprout Expected: 6459 Got: 7671
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:strippedjunglelogrecipe Expected: 6311 Got: 7672
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:blackstoneslab Expected: 6465 Got: 7673
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:ss10 Expected: 6498 Got: 7674
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:respawnanchor Expected: 6483 Got: 7675
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:darkprismarinestairs Expected: 6392 Got: 7676
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:strippedcrimsonhyphae Expected: 6434 Got: 7677
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:strippedacaciawood Expected: 6318 Got: 7678
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:strippedcrimsonstem Expected: 6430 Got: 7679
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:scaffolding Expected: 6344 Got: 7680
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:acaciawood Expected: 6306 Got: 7681
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:crimsonslab Expected: 6420 Got: 7682
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:test Expected: 6536 Got: 7683
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:oldfletchingtable Expected: 6329 Got: 7684
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:soulsoil Expected: 6480 Got: 7685
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:chain Expected: 6486 Got: 7686
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:strippedsprucelog Expected: 6310 Got: 7687
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:warpedfungi Expected: 6458 Got: 7688
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:mossycobblestoneslab Expected: 6354 Got: 7689
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:andesitestair Expected: 6376 Got: 7690
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:mossycobblestonewallsmooth Expected: 6553 Got: 7691
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:driedkelp Expected: 6296 Got: 7692
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:loom Expected: 6333 Got: 7693
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:birchwood Expected: 6303 Got: 7694
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:berrybushstage1 Expected: 6509 Got: 7695
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:berrybushstage0 Expected: 6508 Got: 7696
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:soulsoilspread Expected: 6523 Got: 7697
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:jigsaw Expected: 6346 Got: 7698
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:crimsonnylium Expected: 6417 Got: 7699
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:netheriteshovel Expected: 6447 Got: 7700
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:crystallizedhoney Expected: 6502 Got: 7701
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:quartzbricks Expected: 6481 Got: 7702
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:berrybushstage3 Expected: 6511 Got: 7703
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:composter Expected: 6341 Got: 7704
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:berrybushstage2 Expected: 6510 Got: 7705
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:polishedblackstonewall Expected: 6471 Got: 7706
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:polishedblackstonebrickstairs Expected: 6475 Got: 7707
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:composterfinished Expected: 6534 Got: 7708
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:oakwood Expected: 6302 Got: 7709
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:netheritesword Expected: 6444 Got: 7710
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:stonestair Expected: 6375 Got: 7711
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:cobblestonewallsmart Expected: 6411 Got: 7712
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:polishedbasalt Expected: 6414 Got: 7713
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:lantern Expected: 6345 Got: 7714
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:polishedandesitestair Expected: 6377 Got: 7715
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:cartographytable Expected: 6328 Got: 7716
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:polishedblackstonestairs Expected: 6470 Got: 7717
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:smoothsandstoneslab Expected: 6396 Got: 7718
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:lilyofthevalley Expected: 6348 Got: 7719
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:netheritelegs Expected: 6451 Got: 7720
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:basaltpillarblock Expected: 6514 Got: 7721
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:blackdye Expected: 6364 Got: 7722
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:lectern Expected: 6338 Got: 7723
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:deadfirecoral Expected: 6293 Got: 7724
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:whitedye Expected: 6367 Got: 7725
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:sprucewood Expected: 6304 Got: 7726
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:witherroseplant Expected: 6347 Got: 7727
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:jungletrapdoor Expected: 6323 Got: 7728
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:granitewallsmooth Expected: 6541 Got: 7729
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:endstonebrickwall Expected: 6410 Got: 7730
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:prismarinebrickslab Expected: 6300 Got: 7731
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:smoothquartzslab Expected: 6389 Got: 7732
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:rednetherbrickwallsmooth Expected: 6548 Got: 7733
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:warpednylium Expected: 6418 Got: 7734
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:cutsandstoneslab Expected: 6360 Got: 7735
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:strippedoaklog Expected: 6308 Got: 7736
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:strippeddarkoaklog Expected: 6313 Got: 7737
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:crackedpolishedblackstonebricks Expected: 6477 Got: 7738
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:ss3 Expected: 6491 Got: 7739
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:ss2 Expected: 6490 Got: 7740
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:crimsonstairs Expected: 6422 Got: 7741
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:ss5 Expected: 6493 Got: 7742
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:ss4 Expected: 6492 Got: 7743
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:strippedbirchlog Expected: 6309 Got: 7744
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:dioritewall Expected: 6399 Got: 7745
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:ss7 Expected: 6495 Got: 7746
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:ss6 Expected: 6494 Got: 7747
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:ss9 Expected: 6497 Got: 7748
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:ss8 Expected: 6496 Got: 7749
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:crimsonplanks Expected: 6419 Got: 7750
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:petrifiedwoodslab Expected: 6362 Got: 7751
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:cutredsandstoneslab Expected: 6361 Got: 7752
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:polisheddioriteslab Expected: 6357 Got: 7753
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:endstonebrickstairs Expected: 6388 Got: 7754
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:dioritestair Expected: 6378 Got: 7755
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:warpedroots Expected: 6456 Got: 7756
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:sandstonewall Expected: 6406 Got: 7757
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:pigstep Expected: 6440 Got: 7758
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:polishedblackstoneslab Expected: 6469 Got: 7759
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:stonebrickwall Expected: 6405 Got: 7760
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:basaltdeltapillar Expected: 6525 Got: 7761
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:polishedblackstone Expected: 6468 Got: 7762
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:warpednetherwartdrop Expected: 6522 Got: 7763
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:stoneslab Expected: 6359 Got: 7764
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:netheritescrap Expected: 6442 Got: 7765
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:deadtubecoral Expected: 6291 Got: 7766
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:smoothsandstone Expected: 6394 Got: 7767
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:oldcobblestoneslab Expected: 6487 Got: 7768
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:chiselednetherbricks Expected: 6484 Got: 7769
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:trident Expected: 6301 Got: 7770
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:mossystonebrickstairs Expected: 6382 Got: 7771
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:cryingobsidian Expected: 6482 Got: 7772
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:mossystonebricksmooth Expected: 6542 Got: 7773
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:beenest Expected: 6369 Got: 7774
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:redsandstonewall Expected: 6407 Got: 7775
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:scaffoldingsolidunstable Expected: 6557 Got: 7776
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:netheriteingot Expected: 6443 Got: 7777
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:fungispawn Expected: 6519 Got: 7778
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:cobblestonewallsmooth Expected: 6552 Got: 7779
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:netheritebody Expected: 6450 Got: 7780
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:blackstonestairs Expected: 6466 Got: 7781
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:deadbraincoral Expected: 6290 Got: 7782
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:twistingvines Expected: 6454 Got: 7783
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:target Expected: 6462 Got: 7784
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:kelpitem Expected: 6295 Got: 7785
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:rednetherbrickslab Expected: 6398 Got: 7786
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:unlitcampfire Expected: 6501 Got: 7787
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:junglewood Expected: 6305 Got: 7788
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:strippedoakwood Expected: 6314 Got: 7789
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:stonebrickwallsmooth Expected: 6537 Got: 7790
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:netherbrickwallsmooth Expected: 6547 Got: 7791
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:uncarvedpumpkin Expected: 6284 Got: 7792
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:composter1 Expected: 6527 Got: 7793
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:composter3 Expected: 6529 Got: 7794
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:darkprismarineslab Expected: 6299 Got: 7795
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:composter2 Expected: 6528 Got: 7796
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:strippedsprucewood Expected: 6316 Got: 7797
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:acaciatrapdoor Expected: 6320 Got: 7798
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:netheriteboots Expected: 6452 Got: 7799
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:composter5 Expected: 6531 Got: 7800
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:composter4 Expected: 6530 Got: 7801
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:composter7 Expected: 6533 Got: 7802
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:composter6 Expected: 6532 Got: 7803
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:prismarineslab Expected: 6298 Got: 7804
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:strippedbirchwood Expected: 6315 Got: 7805
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:blackstone Expected: 6464 Got: 7806
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:smithingtable Expected: 6332 Got: 7807
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:redsmoothsandstone Expected: 6395 Got: 7808
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:ancientdebris Expected: 6415 Got: 7809
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:respawnanchorlevel2 Expected: 6505 Got: 7810
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:smoothquartzblock Expected: 6393 Got: 7811
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:respawnanchorlevel1 Expected: 6504 Got: 7812
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:endstonebrickslab Expected: 6352 Got: 7813
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:respawnanchorlevel4 Expected: 6507 Got: 7814
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:respawnanchorlevel3 Expected: 6506 Got: 7815
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:basaltdeltaspread Expected: 6524 Got: 7816
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:rednetherbrickwall Expected: 6409 Got: 7817
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:braincoral Expected: 6285 Got: 7818
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:lodestone Expected: 6463 Got: 7819
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:honeycombblock Expected: 6372 Got: 7820
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:sandstonewallsmooth Expected: 6543 Got: 7821
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:smoothsandstonestairs Expected: 6384 Got: 7822
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:scaffoldingsolid Expected: 6556 Got: 7823
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:netheritepickaxe Expected: 6446 Got: 7824
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:tubecoral Expected: 6286 Got: 7825
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:smoothredsandstonestairs Expected: 6385 Got: 7826
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:dioriteslab Expected: 6351 Got: 7827
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:crimsonroots Expected: 6455 Got: 7828
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:hanging_lantern Expected: 6558 Got: 7829
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:soulcampfire Expected: 6438 Got: 7830
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:granitestair Expected: 6380 Got: 7831
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:polishedblackstonebrickslab Expected: 6474 Got: 7832
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:smoker Expected: 6339 Got: 7833
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:grindstone Expected: 6337 Got: 7834
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:polisheddioritestair Expected: 6379 Got: 7835
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:honeycomb Expected: 6371 Got: 7836
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:mossystonebrickwall Expected: 6404 Got: 7837
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:basalt Expected: 6413 Got: 7838
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:basaltdeltamountainform Expected: 6526 Got: 7839
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:blastfurnace Expected: 6340 Got: 7840
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:gildedblackstone Expected: 6478 Got: 7841
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:warpedfence Expected: 6425 Got: 7842
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:unlitsoulcampfire Expected: 6512 Got: 7843
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:oldcartographytable Expected: 6327 Got: 7844
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:netherbrickwall Expected: 6408 Got: 7845
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:granitewall Expected: 6401 Got: 7846
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:scaffoldingunstable Expected: 6554 Got: 7847
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:bubblecoral Expected: 6287 Got: 7848
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:polishedblackstonebricks Expected: 6473 Got: 7849
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:cornflower Expected: 6349 Got: 7850
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:netheritehoe Expected: 6448 Got: 7851
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:brickwallsmooth Expected: 6545 Got: 7852
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:honeyblock Expected: 6370 Got: 7853
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:polishedgraniteslab Expected: 6358 Got: 7854
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:fletchingtable Expected: 6330 Got: 7855
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:oldstonecutter Expected: 6335 Got: 7856
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:soulfiretorch Expected: 6439 Got: 7857
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:polishedandesiteslab Expected: 6356 Got: 7858
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:warpedwartblock Expected: 6436 Got: 7859
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:prismarinewallsmooth Expected: 6546 Got: 7860
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:nethergoldore Expected: 6479 Got: 7861
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:warpedfungusonastick Expected: 6441 Got: 7862
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:brickwall Expected: 6402 Got: 7863
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:netherbiomespawner Expected: 6518 Got: 7864
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:sprucetrapdoor Expected: 6324 Got: 7865
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:birchtrapdoor Expected: 6321 Got: 7866
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:oldcampfirelit Expected: 6343 Got: 7867
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:wallsoultorch Expected: 6539 Got: 7868
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:soulhanginglantern Expected: 6513 Got: 7869
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:prismarinewall Expected: 6403 Got: 7870
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:warpedtrapdoor Expected: 6461 Got: 7871
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:bamboo2 Expected: 6499 Got: 7872
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:warpedstem Expected: 6428 Got: 7873
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:rednetherbbrickstairs Expected: 6387 Got: 7874
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:andesitewall Expected: 6400 Got: 7875
+[01:56:39] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: futureminecraf:warpedhyphae Expected: 6432 Got: 7876
+[01:56:39] [Server thread/WARN] [FML]: Registry Potion: Object did not get ID it asked for. Name: futureminecraf:slowfall Expected: 87 Got: 55
+[01:56:39] [Server thread/WARN] [FML]: Registry PotionType: Object did not get ID it asked for. Name: futureminecraf:slowfall Expected: 43 Got: 37
+[01:56:39] [Server thread/WARN] [FML]: Registry EntityEntry: Object did not get ID it asked for. Name: futureminecraf:entitybullettrident Expected: 235 Got: 166
+[01:56:39] [Server thread/INFO] [FML]: Applying holder lookups
+[01:56:39] [Server thread/INFO] [FML]: Holder lookups applied
+[01:56:40] [Server thread/INFO] [FML]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@39d30d63)
+[01:56:40] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 983 advancements
+[01:56:40] [Server thread/INFO] [ebwizardry]: Loading custom spell properties for world world
+[01:56:40] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world 0
+[01:56:40] [Server thread/INFO] [RTG]: World Seed: 6809737371582040913
+[01:56:40] [Server thread/INFO] [FML]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@39d30d63)
+[01:56:40] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world 1
+[01:56:40] [Server thread/INFO] [STDOUT]: [biomesoplenty.common.world.BiomeProviderBOPHell:<init>:32]: settings for hell world: 
+[01:56:40] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@39d30d63)
+[01:56:40] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world -1
+[01:56:40] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
+[01:56:40] [Server thread/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:114]: Spliced in METHOD: net.minecraft.world.chunk.BlockStateContainer.func_186018_a
+[01:56:40] [Server thread/INFO] [bettercaves]: Better Caves config file for dimension 0 not found. Using global config...
+[01:56:41] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 2%
+[01:56:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (3.641s)! For help, type "help" or "?"
+[01:56:42] [Thread-10/INFO] [THAUMCRAFT]: Starting aura thread for dim 0
+[01:56:42] [Thread-11/INFO] [THAUMCRAFT]: Starting aura thread for dim 1
+[01:56:42] [Thread-12/INFO] [THAUMCRAFT]: Starting aura thread for dim -1
+[01:56:42] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 1
+[01:56:42] [Server thread/INFO] [FML]: Unloading dimension 1
+[01:56:42] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world -1
+[01:56:42] [Server thread/INFO] [FML]: Unloading dimension -1
+[01:56:42] [BetterFps Update Checker/WARN] [BetterFps]: Could not check for updates: widget.mcf.li
+[01:56:44] [Thread-11/INFO] [THAUMCRAFT]: Stopping aura thread for dim 1
+[01:56:44] [Thread-12/INFO] [THAUMCRAFT]: Stopping aura thread for dim -1
+[01:59:06] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
+[01:59:06] [Netty Epoll Server IO #2/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:114]: Spliced in METHOD: net.minecraftforge.fml.common.network.ByteBufUtils.writeUTF8String
+[01:59:06] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 61 mods : mowziesmobs@1.5.8,dungeontactics@DT-0.16.9,hats@7.1.1,creativecoredummy@1.0.0,ebwizardry@4.3.14,jei@4.16.1.1013,persistentbits@1.0.6a,cofhcore@4.6.6,thermalfoundation@2.6.7,bettercaves@1.12.2,neat@1.4-17,waystones@4.1.0,mcp@9.42,journeymap@1.12.2-5.7.1p2,artifacts@1.12.2-1.2.4,travelersbackpack@1.0.35,inventorytweaks@1.63+release.109.220f184,harvestcraft@1.12.2zb,stg@1.12.2-1.2.3,foamfixcore@7.7.4,hatstand@7.1.0,llibrary@1.7.20,cofhworld@1.4.0,betterbuilderswands@0.13.2,iceandfire@1.9.1,waila@1.8.26,ichunutil@7.2.2,tlauncher_custom_cape_skin@1.4,thaumcraft@6.1.BETA26,ido@2.0.0-B,forge@14.23.5.2860,chesttransporter@2.8.8,ironchest@1.12.2-7.0.67.844,minecraft@1.12.2,tconstruct@1.12.2-2.13.0.183,torchmaster@1.8.4.84,openglider@@VERSION@,biomesoplenty@7.0.1.2445,baubles@1.5.2,redstoneflux@2.1.1,ironfurnaces@1.3.5,creativecore@1.10.0,treasure2@2.3.1,geographicraft@1.0,futureminecraf@1.3.1,roguelike@1.8.0,mantle@1.12-1.3.3.55,spartanshields@1.5.5,fenceoverhaul@1.3.4,securitycraft@v1.9.12,FML@8.0.99.99,obfuscate@0.4.2,gottschcore@1.15.1,tombstone@4.7.4,rtg@6.1.0.0-snapshot.1,login_shield@1.12.2-6-g5654706,backtools@7.0.1,foamfix@@VERSION@,netherendingores@1.12.2-1.4.2,dynamictrees@1.12.2-0.9.29,playerrevive@1.0
+[01:59:06] [Netty Epoll Server IO #2/INFO] [journeymap]: CLIENT
+[01:59:15] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[01:59:15] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: narutu1313[/127.0.0.1:41104] logged in with entity id 55 at (830.8282460169625, 158.0, 74.57301713728884)
+[01:59:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: narutu1313 joined the game
+[01:59:15] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to narutu1313
+[01:59:16] [Server thread/INFO] [ebwizardry]: Synchronising spell glyph data for narutu1313
+[01:59:16] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for narutu1313
+[01:59:16] [Server thread/INFO] [ebwizardry]: Synchronising config settings for narutu1313
+[01:59:16] [Server thread/INFO] [ebwizardry]: Synchronising advancements for narutu1313
+[01:59:16] [Server thread/INFO] [Waila]: Player EntityPlayerMP['narutu1313'/55, l='world', x=830.83, y=158.00, z=74.57] connected. Sending ping
